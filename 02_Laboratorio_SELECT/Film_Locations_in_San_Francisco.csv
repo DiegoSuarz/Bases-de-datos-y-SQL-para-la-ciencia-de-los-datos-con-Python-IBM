@@ -1,0 +1,1001 @@
+rowid,Title,Release Year,Locations,Fun Facts,Production Company,Distributor,Director,Writer,Actor 1,Actor 2,Actor 3
+1,1,1,Epic Roasthouse (399 Embarcadero),,1,,1,1,237,1,439
+2,1,1,Mason & California Streets (Nob Hill),,1,,1,1,237,1,439
+3,1,1,Justin Herman Plaza,,1,,1,1,237,1,439
+4,1,1,200 block Market Street,,1,,1,1,237,1,439
+5,1,1,City Hall,,1,,1,1,237,1,439
+6,1,1,Polk & Larkin Streets,,1,,1,1,237,1,439
+7,1,1,Randall Museum,,1,,1,1,237,1,439
+8,1,1,555 Market St.,,1,,1,1,237,1,439
+9,2,2,,,2,1,2,,238,,
+10,3,3,"The Walden House, Buena Vista Park","Established in 1867, Buena Vista Park is the oldest official park in San Francisco.",3,2,3,2,239,2,
+11,3,3,Café Trieste (609 Vallejo),"Francis Ford Coppola allegedly wrote large portions of ""The Godfather"" trilogy in Café Trieste.",3,2,3,2,239,2,
+12,4,4,,,4,3,4,3,19,3,440
+13,5,5,Rainforest Café (145 Jefferson Street),,5,4,5,4,240,4,
+14,6,6,20th and Folsom Streets,,6,5,6,5,241,5,
+15,6,6,Golden Gate Park,"During San Francisco's Gold Rush era, the Park was part of an area designated as the ""Great Sand Waste"". ",6,5,6,5,241,5,
+16,7,7,Embarcadero Freeway,"Embarcadero Freeway, which was featured in the film was demolished in 1989 because of structural damage from the 1989 Loma Prieta Earthquake)",7,6,7,6,242,6,
+17,7,7,"Fairmont Hotel (950 Mason Street, Nob Hill)","In 1945 the Fairmont hosted the United Nations Conference on International Organization as delegates arrived to draft a charter for the organization. The U.S. Secretary of State, Edward Stettinius drafted the charter in the hotel's Garden Room.",7,6,7,6,242,6,
+18,7,7,San Francisco Chronicle (901 Mission Street at 15th Street),The San Francisco Zodiac Killer of the late 1960s sent his notes and letters to the Chronicle's offices.,7,6,7,6,242,6,
+19,7,7,Broadway (North Beach),,7,6,7,6,242,6,
+20,8,8,75 California Street,,4,3,8,7,243,7,
+21,9,8,Grace Cathedral Episcopal Church (1100 California Street),Grace Cathedral Episcopal Church is the West Coast's largest Episcopalian cathedral.,4,3,8,7,243,7,
+22,9,8,Hills Brothers Plaza (Embarcadero at Harrison Street),,4,3,8,7,243,7,
+23,9,8,San Francisco International Airport,SFO has a museum dedicated to aviation history. ,4,3,8,7,243,7,
+24,10,9,City Hall,"The dome of SF's City Hall is almost a foot taller than that of the US Capitol Building. In 1954, Joe DiMaggio and Marilyn Monroe married at the Beaux Arts-style building.",8,7,9,8,244,8,441
+25,10,9,Port of San Francisco ,,8,7,9,8,244,8,441
+26,11,10,420 Jones St. at Ellis St.,,9,8,10,9,245,9,
+27,10,9,"Lefty O' Doul Drawbridge/ 3rd Street Bridge (3rd Street, China Basin)","This is SF's only drawbridge, and was named after Francis Joseph ""Lefty"" O'Doul, a local baseball hero.",8,7,9,8,244,8,441
+28,10,9,Golden Gate Bridge,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",8,7,9,8,244,8,441
+29,10,9,Embarcadero Freeway,"Embarcadero Freeway, which was featured in the film, was demolished in 1989 because of structural damage from the 1989 Loma Prieta Earthquake)",8,7,9,8,244,8,441
+30,10,9,Potrero Hill,The most crooked street in San Francisco is actually Potrero Hill's Vermont Street between 20th St & 22nd St.,8,7,9,8,244,8,441
+31,10,9,City Hall,"The dome of SF's City Hall is almost a foot taller than that of the US Capitol Building. In 1954, Joe DiMaggio and Marilyn Monroe married at the Beaux Arts-style building.",8,7,9,8,244,8,441
+32,10,9,Chinatown,"First established in the mid-19th Century, SF's Chinatown is the oldest and largest Chinatown in the US.",8,7,9,8,244,8,441
+33,10,9,"Burger Island (901 3rd Street, China Basin)",,8,7,9,8,244,8,441
+34,10,9,Van Ness Avenue,,8,7,9,8,244,8,441
+35,10,9,Taylor and Jefferson Streets (Fisherman's Wharf),,8,7,9,8,244,8,441
+36,12,11,Broderick from Fulton to McAlister,,10,9,11,10,246,10,
+37,12,11,Crissy Field,,10,9,11,10,246,10,
+38,12,11,Powell from Bush and Sutter,,10,9,11,10,246,10,
+39,13,12,Coit Tower,"The Tower was funded by a gift bequeathed by Lillie Hitchcock Coit, a socialite who reportedly liked to chase fires. Though the tower resembles a firehose nozzle, it was not designed this way.",8,10,12,11,247,11,432
+40,14,10,Pier 50- end of the pier,,11,,13,12,248,12,442
+41,14,10,California @ Montgomery,,11,,13,12,248,12,442
+42,14,10,Montgomery/Green,,11,,13,12,248,12,442
+43,14,10,Driving various SF Streets,,11,,13,12,248,12,442
+44,14,10,Plate Shots SF streets various,,11,,13,12,248,12,442
+45,15,13,Filbert St. from Jones to Mason,,12,11,14,13,249,13,
+46,15,13,Leavenworth from Filbert & Francisco St,,12,11,14,13,249,13,
+47,15,13,Chestnut St. from Larkin to Columbus,,12,11,14,13,249,13,
+48,15,13,Francisco St from Larkin to Polk,,12,11,14,13,249,13,
+49,15,13,Broadway from Mason to Taylor,,12,11,14,13,249,13,
+50,15,13,Taylor St. from Broadway to Filbert,,12,11,14,13,249,13,
+51,11,10,Broadway between Powell and Davis,Driving shots,9,8,10,9,245,9,
+52,16,14,Cliff House (1090 Point Lobos Avenue),"In 1887, the Cliff House was severely damaged when the schooner Parallel, abandoned and loaded with dynamite, ran aground on the rocks below.",13,12,15,14,250,14,443
+53,16,14,San Francisco Bay,,13,12,15,14,250,14,443
+54,16,14,"Fairmont Hotel (950 Mason Street, Nob Hill)","In 1945 the Fairmont hosted the United Nations Conference on International Organization as delegates arrived to draft a charter for the organization. The U.S. Secretary of State, Edward Stettinius drafted the charter in the hotel's Garden Room.",13,12,15,14,250,14,443
+55,17,15,Curran Theater (445 Geary Street),Called the Shubert Theatre in the film. ,14,13,16,15,251,15,444
+56,18,16,"Mel's Drive-In (Corner of Van Ness & Mission Street, Mission District)",This restaurant location was demolished; however another Mel's was reopened in 1986 on 3355 Geary Blvd. ,15,14,17,16,252,16,445
+57,18,16,3355 Geary Blvd.,,15,14,17,16,252,16,445
+58,19,5,,,16,,18,17,253,17,
+59,20,10,St. Francis Episcopal Church (399 San Fernando Way),,17,,19,18,254,18,446
+60,20,10,Romolo Place @ Fresno St.,,17,,19,18,254,18,446
+61,20,10,Palace of Fine Arts,,17,,19,18,254,18,446
+62,20,10,John Shelley Drive John McLaren Park,,17,,19,18,254,18,446
+63,20,10,Treasure Island,,17,,19,18,254,18,446
+64,20,10,The San Francisco School (300 Gavin St.),,17,,19,18,254,18,446
+65,20,10,33 Spruce St,,17,,19,18,254,18,446
+66,20,10,Coi Restaurant (373 Broadway),,17,,19,18,254,18,446
+67,20,10,Foreign Cinema (2534 Mission),,17,,19,18,254,18,446
+68,20,10,Bernal Heights Park,,17,,19,18,254,18,446
+69,20,10,Jackson St. at Spruce,,17,,19,18,254,18,446
+70,20,10,679 Madrid St,,17,,19,18,254,18,446
+71,20,10,Roxie Theater (3117 16th St.),,17,,19,18,254,18,446
+72,20,10,Variety Preview Room (582 Market St.),,17,,19,18,254,18,446
+73,20,10,Laguna Honda Hospital; 375 Laguna Honda Blvd.,,17,,19,18,254,18,446
+74,20,10,3232 Jackson Ave.,,17,,19,18,254,18,446
+75,20,10,20th St and Illinois/Faxon St. and Kenwood/Glenbrook at Mt. Springs,,17,,19,18,254,18,446
+76,21,17,,,18,3,4,3,3,19,
+77,11,10,Conzelman Rd at McCollough Rd and down Conzelman Rd.,Aerial shots,9,8,10,9,245,9,
+78,11,10,Lombard at Hyde,,9,8,10,9,245,9,
+79,11,10,601 Buena Vista Ave West at Java St.,,9,8,10,9,245,9,
+80,11,10,Columbus between Bay and Washington,Driving shots,9,8,10,9,245,9,
+81,11,10,California between Kearney and Davis,Driving shots,9,8,10,9,245,9,
+82,11,10,Pine between Kearney and Davis,Driving shots,9,8,10,9,245,9,
+83,11,10,Market between Stuart and Van Ness,Driving shots,9,8,10,9,245,9,
+84,11,10,Grant between Bush and Broadway,Driving shots,9,8,10,9,245,9,
+85,11,10,Intersection of Broadway at Kearney,Driving shots,9,8,10,9,245,9,
+86,11,10,Intersection of California at Polk,Driving shots,9,8,10,9,245,9,
+87,11,10,"Treasure Island, Building #1, Ave of the Palms",Aerial and exterior shots,9,8,10,9,245,9,
+88,22,18,Ocean Beach,"On Jan. 25, 1878, the King Philip ship crashed in Ocean Beach. Occasionally, the ship's wreckage may be found on the beach-- most recently it was seen in 2007. ",19,15,20,19,255,,
+89,23,7,Hyde Street Cable Car,SF Cable Cars are the only moving National Historical Landmark.,20,16,21,20,256,,
+90,24,19,,,21,17,22,21,257,20,
+91,25,20,"Fairmont Hotel (950 Mason Street, Nob Hill)",,22,18,23,22,258,21,447
+92,25,20,Embarcadero around Rincon Park,,22,18,23,22,258,21,447
+93,25,20,San Remo Hotel (2237 Mason),,22,18,23,22,258,21,447
+94,25,20,"Huntington Park (California & Taylor Streets, Nob Hill)",,22,18,23,22,258,21,447
+95,25,20,Driving around Taylor/Pacific/Leavenworth,,22,18,23,22,258,21,447
+96,25,20,California and Jones St.,,22,18,23,22,258,21,447
+97,25,20,"Another Café, 1191 Pine St at Leavenworth",,22,18,23,22,258,21,447
+98,26,21,,,23,19,24,23,259,22,448
+99,27,22,Yerba Buena Center for the Arts,,24,20,25,24,245,23,449
+100,27,22,Transbay Terminal (Mission Street at 1st Street),"Built in 1939, the Terminal linked San Francisco, the East Bay, and Sacramento by rail for the first time.",24,20,25,24,245,23,449
+101,27,22,Tosca Café (242 Columbus Avenue),,24,20,25,24,245,23,449
+102,27,22,"Steinhart Aquarium (California Academy of Sciences, Golden Gate Park)","The Steinhart Aquarium is home to over 38,000 animals, which represent more than 900 species. ",24,20,25,24,245,23,449
+103,27,22,Raw Hide II (280 Seventh Street),,24,20,25,24,245,23,449
+104,27,22,Pier 7 (The Embarcadero),,24,20,25,24,245,23,449
+105,27,22,Kearney Street (Telegraph Hill),,24,20,25,24,245,23,449
+106,28,11,Nobles Alley,,25,21,26,25,260,24,450
+107,27,22,Hall of Justice (850 Bryant Street),,24,20,25,24,245,23,449
+108,27,22,2930 Vallejo Street,,24,20,25,24,245,23,449
+109,27,22,Chinatown,"First established in the mid-19th Century, SF's Chinatown is the oldest and largest Chinatown in the US.",24,20,25,24,245,23,449
+110,27,22,Gibb Street (Chinatown),,24,20,25,24,245,23,449
+111,27,22,1158-70 Montgomery Street,,24,20,25,24,245,23,449
+112,27,22,2104 Broadway,,24,20,25,24,245,23,449
+113,29,23,,,26,22,27,26,261,25,451
+114,30,24,Divisadero between Broadway and Greenwich,,27,23,28,27,262,26,452
+115,30,24,Ohloff Recovery Center (601 Steiner St),,27,23,28,27,262,26,452
+116,30,24,Haight at Masonic,,27,23,28,27,262,26,452
+117,30,24,Tenderloin Neighborhood,,27,23,28,27,262,26,452
+118,30,24,"Olympic Flame Café, 555 Geary St",,27,23,28,27,262,26,452
+119,30,24,18th St at San Bruno Ave.,,27,23,28,27,262,26,452
+120,30,24,Wisconsin between 19th and 20th St,,27,23,28,27,262,26,452
+121,31,25,1155 Filbert Street at Hyde,,14,13,29,28,263,27,
+122,31,25,"Washington Square Park (Filbert, between Stockton and Powell)",,14,13,29,28,263,27,
+123,31,25,Vaillancourt Fountain (Justin Herman Plaza),"Installed in 1975, the Vaillancourt Fountain is officially titled, ""Québec Libre!"". The night before the sculpture's inauguration, artist Armand Vaillancourt inscribed ""Québec libre!"" in red letters on the sculpture. The next day when he noticed that the note had been erased, Vaillancourt jumped on the statue to re-inscribe his message. ",14,13,29,28,263,27,
+124,31,25,Montgomery & Market Streets,,14,13,29,28,263,27,
+125,31,25,City Hall,"The dome of SF's City Hall is almost a foot taller than that of the US Capitol Building. In 1954, Joe DiMaggio and Marilyn Monroe married at the Beaux Arts-style building.",14,13,29,28,263,27,
+126,32,2,,,28,24,30,29,264,28,
+127,33,26,City Hall,"The dome of SF's City Hall is almost a foot taller than that of the US Capitol Building. In 1954, Joe DiMaggio and Marilyn Monroe married at the Beaux Arts-style building.",29,25,31,30,265,,
+128,33,26,Golden Gate Bridge,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",29,25,31,30,265,,
+129,33,26,Treasure Island,"An artificial island, Treasure Island was created for the 1939 Golden Gate International Exposition, and is named after the novel by Robert Louis Stevenson, a one-time San Francisco resident.",29,25,31,30,265,,
+130,33,26,"Postcard Row, Alamo Square, Hayes Valley",The 6 Victorian homes across from Alamo Square Park are among the few Victorians to survive the Great Fire.,29,25,31,30,265,,
+131,33,26,Grace Cathedral Episcopal Church (1100 California Street),Grace Cathedral Episcopal Church is the West Coast's largest Episcopalian cathedral.,29,25,31,30,265,,
+132,28,11,Caffe Trieste,,25,21,26,25,260,24,450
+133,28,11,Palace of Fine Arts,,25,21,26,25,260,24,450
+134,28,11,1101 Filbert St. ,,25,21,26,25,260,24,450
+135,28,11,Saints Peter & Paul Church,,25,21,26,25,260,24,450
+136,28,11,Green St. & Grant Ave.,,25,21,26,25,260,24,450
+137,28,11,Filbert St. & Leavenworth,,25,21,26,25,260,24,450
+138,28,11,Pine St. & Grant,,25,21,26,25,260,24,450
+139,28,11,Way Faire Inn on Leidesdorff,,25,21,26,25,260,24,450
+140,28,11,Harry's Bar on Fillmore,,25,21,26,25,260,24,450
+141,34,27,"Tosca Café (242 Columbus Avenue, North Beach)",,30,,32,31,266,29,453
+142,35,28,,,13,12,33,32,267,30,454
+143,36,29,Alcatraz Island,Alcatraz Island was a military fort before it became a prison.,31,19,34,33,268,31,455
+144,36,29,Pier 43 1/2,,31,19,34,33,268,31,455
+145,37,30,Lands End Trail at Eagles Point/ Lincoln Park Golf Course,The character of Steve McKee was based on actor Steve McQueen who studied with Bruce Lee in the later 60's.,32,26,35,34,269,32,456
+146,37,30,Pier 45 - Jeremiah O'Brien Liberty Ship,The SS Jeremiah O'Brien is a rare survivor of the invasion at Normandy on D-Day in WWII.,32,26,35,34,269,32,456
+147,37,30,Leavenworth at Green,,32,26,35,34,269,32,456
+148,37,30,Leavenworth at Union,,32,26,35,34,269,32,456
+149,37,30,Hyde at Union,,32,26,35,34,269,32,456
+150,37,30,California at Grant,,32,26,35,34,269,32,456
+151,37,30,Grant between Bush and Broadway,,32,26,35,34,269,32,456
+152,37,30,California at Mason,,32,26,35,34,269,32,456
+153,37,30,Spofford between Clay and Washington,,32,26,35,34,269,32,456
+154,37,30,Twin Peaks Blvd.,,32,26,35,34,269,32,456
+155,37,30,Waverly Pl between Washington and Sacramento,,32,26,35,34,269,32,456
+156,38,27,Jones & Pacific,,33,27,36,35,270,33,457
+157,38,27,Pacific & Divisadero,,33,27,36,35,270,33,457
+158,38,27,Lombard & Hyde,,33,27,36,35,270,33,457
+159,38,27,5546 Geary Ave,,33,27,36,35,270,33,457
+160,38,27,2898 Broadway,,33,27,36,35,270,33,457
+161,38,27,Motel Capri,,33,27,36,35,270,33,457
+162,38,27,Marina Green,,33,27,36,35,270,33,457
+163,38,27,Ocean Beach at Lincoln,,33,27,36,35,270,33,457
+164,38,27,Heald College,,33,27,36,35,270,33,457
+165,38,27,Marina Blvd from Laguna to Baker,,33,27,36,35,270,33,457
+166,38,27,330 Santa Clara Ave.,,33,27,36,35,270,33,457
+167,38,27,200 Post St. ,,33,27,36,35,270,33,457
+168,38,27,2179 48th Ave,,33,27,36,35,270,33,457
+169,38,27,The Ramp Restaurant,,33,27,36,35,270,33,457
+170,38,27,303-305 S. Van Ness,,33,27,36,35,270,33,457
+171,38,27,3563 20th St.,,33,27,36,35,270,33,457
+172,38,27,Taylor & Green St.,,33,27,36,35,270,33,457
+173,38,27,Grant & Washington St.,,33,27,36,35,270,33,457
+174,38,27,2934 24th St.,,33,27,36,35,270,33,457
+175,38,27,1138 Alabama St,,33,27,36,35,270,33,457
+176,38,27,South Park,,33,27,36,35,270,33,457
+177,38,27,2915 16th St.,,33,27,36,35,270,33,457
+178,38,27,Trolley Car from Market and 11th,,33,27,36,35,270,33,457
+179,38,27,Real Guitars,,33,27,36,35,270,33,457
+180,38,27,Aub Zam Zam Bar,,33,27,36,35,270,33,457
+181,38,27,790 Ulloa ,,33,27,36,35,270,33,457
+182,38,27,SFO International Airport Terminal 3,,33,27,36,35,270,33,457
+183,38,27,2178 Palou Ave.,,33,27,36,35,270,33,457
+184,39,25,1122 Folsom Street,,34,28,37,36,271,34,
+185,39,25,"St. Peter & Paul's Church (666 Filbert Street, Washington Square)","Though Marilyn Monroe and Joe DiMaggio were not allowed to be married at the Church (DiMaggio had married his first wife at the Church but was divorced), the couple returned to the steps of the Church for photos, following their City Hall nuptials.",34,28,37,36,271,34,
+186,39,25,Golden Gate Bridge,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",34,28,37,36,271,34,
+187,39,25,Fisherman's Wharf,"Supposedly, Mikhail S. Gorbachev has said that his favorite part of visiting America was touring Fisherman's Wharf.",34,28,37,36,271,34,
+188,39,25,Ferry Building,"Every hour and half-hour, the clock bell atop the Ferry Building chimes portions of the Westminster Quarters.",34,28,37,36,271,34,
+189,39,25,Coit Tower,"The Tower was funded by a gift bequeathed by Lillie Hitchcock Coit, a socialite who reportedly liked to chase fires. Though the tower resembles a firehose nozzle, it was not designed this way.",34,28,37,36,271,34,
+190,39,25,City Hall,"The dome of SF's City Hall is almost a foot taller than that of the US Capitol Building. In 1954, Joe DiMaggio and Marilyn Monroe married at the Beaux Arts-style building.",34,28,37,36,271,34,
+191,39,25,Lombard Street,Lombard Street is not actually the most crooked in SF. That honor goes to Potrero Hill's Vermont Street between 22nd and 23rd.,34,28,37,36,271,34,
+192,39,25,Chinatown,"First established in the mid-19th Century, SF's Chinatown is the oldest and largest Chinatown in the US.",34,28,37,36,271,34,
+193,39,25,Aquatic Park (Jefferson Street),"Located at one end of Fisherman's Wharf, Aquatic Park was built as part of FDR's Works Progress Administration Project.",34,28,37,36,271,34,
+194,39,25,Alcatraz Island,Alcatraz Island was a military fort before it became a prison.,34,28,37,36,271,34,
+195,39,25,628 Cole Street,,34,28,37,36,271,34,
+196,40,19,Ina Coolbrith Park (1700 Taylor Street),,35,,38,37,,,
+197,40,19,0-100 block Halleck Street,,35,,38,37,,,
+198,41,20,3050 24th Street,,36,29,39,38,272,35,458
+199,41,20,3033 24th Street,,36,29,39,38,272,35,458
+200,41,20,2937 24th Street,,36,29,39,38,272,35,458
+201,41,20,1167 Alabama Street,,36,29,39,38,272,35,458
+202,41,20,1641 York Street,,36,29,39,38,272,35,458
+203,41,20,Bernal Heights Boulevard,,36,29,39,38,272,35,458
+204,41,20,40 Prentiss Street,,36,29,39,38,272,35,458
+205,41,20,500 Cortland Avenue,,36,29,39,38,272,35,458
+206,41,20,Lucky Street,,36,29,39,38,272,35,458
+207,41,20,1125 Guerrero Street,,36,29,39,38,272,35,458
+208,41,20,Gough Street & Clay Street,,36,29,39,38,272,35,458
+209,41,20,2007 Franklin Street,,36,29,39,38,272,35,458
+210,41,20,951 Hudson Avenue,,36,29,39,38,272,35,458
+211,42,31,Bayshore Blvd near Cesar Chavez (Bayview),,37,30,40,39,273,36,459
+212,42,31,Taylor & Vallejo Streets (Russian Hill),,37,30,40,39,273,36,459
+213,43,32,1627 Haight Street,,38,6,41,40,274,37,
+214,42,31,"SF General Hospital Center (1001 Potrero Avenue, Potrero Hill)",SF General Hospital is the only Level I Trauma Center serving San Francisco and northern San Mateo County. ,37,30,40,39,273,36,459
+215,42,31,McLaren Park (Visitacion  Valley),"McLaren Park is the 2nd largest park in San Francisco, after Golden Gate Park.",37,30,40,39,273,36,459
+216,42,31,Mark Hopkins Hotel (999 California Street),The Top of the Mark lounge and restaurant at the top of the hotel was formerly a penthouse suite.,37,30,40,39,273,36,459
+217,42,31,Marina Green (Marina District),"Before the 1906 earthquake, the land on which Marina Green sits was a tidal marsh, and rubble from the earthquake was dumped on the site. However, the site was filled in to provide land for the 1915 Panama-Pacific Exhibition. ",37,30,40,39,273,36,459
+218,42,31,Mansell & University Streets (Visitacion  Valley),,37,30,40,39,273,36,459
+219,42,31,Larkin & Francisco Streets (Russian Hill),,37,30,40,39,273,36,459
+220,42,31,Larkin & Chestnut Streets (Russian Hill),,37,30,40,39,273,36,459
+221,42,31,Kennedy Hotel (226 Embarcadero at Howard Street),Hotel was destroyed in the 1989 Loma Prieta earthquake. Corporate headquarters for the Gap reside at the location today.,37,30,40,39,273,36,459
+222,42,31,John Muir Drive (Lake Merced),,37,30,40,39,273,36,459
+223,42,31,Intersection of York & Peralta (Bernal Heights),,37,30,40,39,273,36,459
+224,42,31,Filbert & Taylor Streets (Russian Hill),,37,30,40,39,273,36,459
+225,42,31,Enrico's Café (504 Broadway),,37,30,40,39,273,36,459
+226,42,31,Columbus & Lombard Streets (North Beach),,37,30,40,39,273,36,459
+227,42,31,Cesar Chavez & Mission Street (Mission),,37,30,40,39,273,36,459
+228,42,31,"Candlestick Park Exit, Highway 101",,37,30,40,39,273,36,459
+229,42,31,Café Cantata (2040 Union Street),,37,30,40,39,273,36,459
+230,42,31,Brocklebank Apartments (1000 Mason Street),,37,30,40,39,273,36,459
+231,42,31,Bay Bridge,"Before opening in 1936, the bridge was blessed by Cardinal Secretary of State Eugenio Pacelli, who later became Pope Pius XII. ",37,30,40,39,273,36,459
+232,42,31,2700 Vallejo Street (Pacific Heights),,37,30,40,39,273,36,459
+233,42,31,20th & Vermont Streets (Potrero Hill),The most crooked street in San Francisco is actually Potrero Hill's Vermont Street between 20th St & 22nd St.,37,30,40,39,273,36,459
+234,42,31,1153-57 Taylor Street,"Embarcadero Freeway, which was featured in the film was demolished in 1989 because of structural damage from the 1989 Loma Prieta Earthquake)",37,30,40,39,273,36,459
+235,43,32,California Academy of Sciences (Golden Gate Park),"Founded in 1853, 3 years after California joined the United States, the Academy was originally named the California Academy of Natural Sciences and was the first institution of its kind in the United States.",38,6,41,40,274,37,
+236,43,32,Green Valley Restaurant (510 Green Street Near Grant),,38,6,41,40,274,37,
+237,43,32,1400 18th Street,,38,6,41,40,274,37,
+238,44,33,The Lexington Club (3464 19th Street at Lexington),,39,31,42,41,275,,
+239,44,33,"Royan Hotel (405 Valencia Street, Mission District)",,39,31,42,41,275,,
+240,44,33,"Department of Public Health (101 Grove Street at Polk, Civic Center)",,39,31,42,41,275,,
+241,45,34,101 Henry Adams Place,,40,32,43,42,276,38,460
+242,46,10,3639 Taraval St,,41,,44,43,277,39,461
+243,46,10,1458 33rd Ave.,,41,,44,43,277,39,461
+244,46,10,Lyon at Chestnut St.,,41,,44,43,277,39,461
+245,46,10,1559 Underwood Avenue between Lane and Keith,,41,,44,43,277,39,461
+246,46,10,1465 Revere Avenue between Keith and Jennings,,41,,44,43,277,39,461
+247,46,10,1601 Lane St.,,41,,44,43,277,39,461
+248,46,10,420 Mason St.,,41,,44,43,277,39,461
+249,46,10,119 Utah,,41,,44,43,277,39,461
+250,46,10,100 Alemany Blvd.,,41,,44,43,277,39,461
+251,46,10,812 22nd St. and Tennessee,,41,,44,43,277,39,461
+252,47,35,Mission Dolores Park (Mission District) via J-Church MUNI Train,"The two land plots that comprise the Park were used as a Jewish cemetery until 1894 when San Francisco prohibited all burials within city limits. The graves were moved to Colma, CA.",5,4,45,44,278,40,
+253,48,4,"Li Po (916 Grant Avenue at Washington, Chinatown)",,42,33,46,45,279,41,462
+254,48,4,Golden Dragon Restaurant (816 Washington Street at Grant),,42,33,46,45,279,41,462
+255,49,30,Maiden Lane between Kearny and Grant,,43,34,47,46,280,42,463
+256,49,30,"The Drew School, 2901 California",,43,34,47,46,280,42,463
+257,49,30,"State Garage, 818 Leavenworth",,43,34,47,46,280,42,463
+258,49,30,60 Leavenworth St.,,43,34,47,46,280,42,463
+259,50,30,"Harvey Milk Rec Center, 50 Scott St.",,43,34,48,47,280,42,463
+260,50,30,66 Potomac,,43,34,48,47,280,42,463
+261,50,30,"Mario's Café, 566 Columbus",,43,34,48,47,280,42,463
+262,50,30,Washington Square Park,,43,34,48,47,280,42,463
+263,50,30,"William Stout Architectural Books, 804 Montgomery St.",,43,34,48,47,280,42,463
+264,50,30,1055 Montgomery St.,,43,34,48,47,280,42,463
+265,50,30,60 Leavenworth St.,,43,34,48,47,280,42,463
+266,50,30,Jefferson Square Park,,43,34,48,47,280,42,463
+267,50,30,UN Plaza/ Civic Center Bart steps,,43,34,48,47,280,42,463
+268,50,30,940 Powell St.,,43,34,48,47,280,42,463
+269,50,30,Ellis and Jones St.,,43,34,48,47,280,42,463
+270,50,30,"Ellis Food Center, 398 Ellis",,43,34,48,47,280,42,463
+271,50,30,"Jonell's Bar, 401 Ellis",,43,34,48,47,280,42,463
+272,50,30,"State Garage, 818 Leavenworth",,43,34,48,47,280,42,463
+273,50,30,Antonio Alley,,43,34,48,47,280,42,463
+274,50,30,253 4th Ave.,,43,34,48,47,280,42,463
+275,50,30,"Warren's Antiques, 375 9th St.",,43,34,48,47,280,42,463
+276,51,30,Private alley along 20th St. between Tennessee and Minnesota,,43,34,47,46,280,42,463
+277,52,30,Mason and Pacific,,43,34,48,48,280,42,463
+278,52,30,John St. between Powell and Mason,,43,34,48,48,280,42,463
+279,52,30,Westin St. Francis,,43,34,48,48,280,42,463
+280,52,30,"Betelnut restaurant, 2030 Union St.",,43,34,48,48,280,42,463
+281,52,30,"Sutter Stockton Garage, 444 Stockton",,43,34,48,48,280,42,463
+282,52,30,"YWCA, 940 Powell",,43,34,48,48,280,42,463
+283,52,30,"Warren's Antiques, 375 9th St.",,43,34,48,48,280,42,463
+284,52,30,Heron and Berwick Alleys,,43,34,48,48,280,42,463
+285,52,30,"Duboce St., Duboce Café",,43,34,48,48,280,42,463
+286,52,30,Potomac and Waller,,43,34,48,48,280,42,463
+287,52,30,"State Garage, 818 Leavenworth",,43,34,48,48,280,42,463
+288,53,30,60 Leavenworth St.,,43,34,3,49,280,42,463
+289,53,30,"Blue Danube Café, 306 Clement",,43,34,3,49,280,42,463
+290,53,30,"San Francisco Art Institute, 800 Chestnut",,43,34,3,49,280,42,463
+291,53,30,Laguna Honda Hospital,,43,34,3,49,280,42,463
+292,53,30,350 Santa Ana Ave.,,43,34,3,49,280,42,463
+293,53,30,878-898 Chestnut St.,,43,34,3,49,280,42,463
+294,53,30,Forrest Hill Muni Station,A Muni station agent played himself in this scene.,43,34,3,49,280,42,463
+295,53,30,60 Potomac,,43,34,3,49,280,42,463
+296,53,30,"The Drew School, 2901 California",,43,34,3,49,280,42,463
+297,53,30,San Bruno and Alameda,,43,34,3,49,280,42,463
+298,53,30,17th and Arkansas,,43,34,3,49,280,42,463
+299,54,30,Bush and Sansome St.,,43,34,49,50,280,42,463
+300,54,30,"Bayview Police Station, 201 Williams Ave.",,43,34,49,50,280,42,463
+301,54,30,Miraloma Mall at Portola Frontage Road,,43,34,49,50,280,42,463
+302,54,30,1018 Tennessee St.,,43,34,49,50,280,42,463
+303,54,30,901/909Tennessee St.,,43,34,49,50,280,42,463
+304,54,30,11 San Jacinto Ave.,,43,34,49,50,280,42,463
+305,54,30,Palace of Fine Arts,"The Palace of Fine Arts was designed by Bernard Maybeck and was originally constructed for the 1915 Panama-Pacific Exposition.  It has been in films such as Time After Time, The Room, Twisted, So I Married An Axe Murderer and The Rock.",43,34,49,50,280,42,463
+306,54,30,"Agua Vista Park at Mission Rock, 817 Terry A Francois Blvd.",,43,34,49,50,280,42,463
+307,54,30,200 Kansas St.,,43,34,49,50,280,42,463
+308,54,30,15th St. between Vermont and Kansas,,43,34,49,50,280,42,463
+309,55,30,Washington Square Park,,43,34,50,51,280,42,463
+310,55,30,Grant between Union and Green,,43,34,50,51,280,42,463
+311,55,30,60 Leavenworth St.,,43,34,50,51,280,42,463
+312,55,30,Montgomery between Pacific and Broadway,,43,34,50,51,280,42,463
+313,55,30,Treasure Island,"From the late 1980s, Treasure Island's old aircraft Hangar 2 (Building 2) and Hangar 3 (Building 3) served as sound stages for film-making and TV, including  Rent, The Pursuit of Happyness, Flubber, What Dreams May Come, Patch Adams, The Parent Trap, Bicentennial Man and the TV series Trauma.",43,34,50,51,280,42,463
+314,55,30,2 Rowland,,43,34,50,51,280,42,463
+315,55,30,McAllister between Leavenworth and Hyde,,43,34,50,51,280,42,463
+316,56,30,"Punjab Café, 838 24th St.",,43,34,51,52,280,42,463
+317,56,30,60 Potomac,,43,34,51,52,280,42,463
+318,56,30,Buena Vista betweeen Upper Terrace and Java St.,,43,34,51,52,280,42,463
+319,56,30,157 Commonwealth,,43,34,51,52,280,42,463
+320,56,30,1461 Page St.,,43,34,51,52,280,42,463
+321,56,30,1958 Valencia St.,,43,34,51,52,280,42,463
+322,56,30,145 Barlett St.,,43,34,51,52,280,42,463
+323,57,30,Huntington Park,,43,34,52,53,280,42,463
+324,58,7,,,44,35,53,54,281,,
+325,57,30,Fairmont Hotel,"The Fairmont Hotel was featured in many films, including The Rock and the TV series Hotel",43,34,52,53,280,42,463
+326,57,30,1000 Mason St.,,43,34,52,53,280,42,463
+327,57,30,St. Mary's Square Park,,43,34,52,53,280,42,463
+328,59,30,Terry A. Francois Blvd. ,,43,34,54,51,280,42,463
+329,59,30,2 Rowland,,43,34,54,51,280,42,463
+330,59,30,Ocean Park Motel,,43,34,54,51,280,42,463
+331,59,30,"Cliffhouse, 1090 Point Lobos Ave.",,43,34,54,51,280,42,463
+332,59,30,850 Bryant- 6th floor County Jail,The former County Jail on the 6th floor was re-created to resemble a Mexican jail for the scene,43,34,54,51,280,42,463
+333,59,30,60 Leavenworth St.,,43,34,54,51,280,42,463
+334,60,30,San Francisco General Hospital,,43,34,51,52,280,42,463
+335,60,30,1901 Ocean Ave. at Ashton Ave.,,43,34,51,52,280,42,463
+336,60,30,1 Urbano,,43,34,51,52,280,42,463
+337,60,30,18 Urbano,,43,34,51,52,280,42,463
+338,60,30,Ocean Park Motel,,43,34,51,52,280,42,463
+339,60,30,"Cliffhouse, 1090 Point Lobos Ave.",,43,34,51,52,280,42,463
+340,61,20,Marina Blvd between Baker and Fillmore St,,45,36,55,55,280,43,463
+341,61,20,Jefferson St at Taylor St,,45,36,55,55,280,43,463
+342,61,20,"Taylor St, north of Jefferson St to end",,45,36,55,55,280,43,463
+343,61,20,Haight St at Ashbury St,,45,36,55,55,280,43,463
+344,61,20,Central St between Haight and Page St,,45,36,55,55,280,43,463
+345,61,20,Waller St between Masonic and Del Mar St,,45,36,55,55,280,43,463
+346,61,20,Market St at Embarcadero,,45,36,55,55,280,43,463
+347,61,20,Embarcadero between Harrison and Folsom St,,45,36,55,55,280,43,463
+348,61,20,Embarcadero at Lombard St. ,,45,36,55,55,280,43,463
+349,61,20,Union St at Leavenworth St,,45,36,55,55,280,43,463
+350,61,20,Lombard St between Leavenworth and Hyde St,,45,36,55,55,280,43,463
+351,61,20,Filbert St at Stockton St,,45,36,55,55,280,43,463
+352,61,20,20th St between Church and Dolores St,,45,36,55,55,280,43,463
+353,61,20,Scott St between Jackson and Clay St,,45,36,55,55,280,43,463
+354,61,20,Steiner St between Jackson and Clay St,,45,36,55,55,280,43,463
+355,61,20,Lombard St between Hyde and Larkin St,,45,36,55,55,280,43,463
+356,61,20,Columbus between Filbert and Lombard St,,45,36,55,55,280,43,463
+357,61,20,Embarcadero at Vallejo St.,,45,36,55,55,280,43,463
+358,61,20,Embarcadero between Bay and Chestnut St,,45,36,55,55,280,43,463
+359,61,20,Heron @ Berwick (off 8th and Harrison St),,45,36,55,55,280,43,463
+360,61,20,Duboce between Buena Vista East and Alpine St,,45,36,55,55,280,43,463
+361,61,20,Haight between Central and Ashbury St,,45,36,55,55,280,43,463
+362,61,20,Mason between Sacramento and California St,,45,36,55,55,280,43,463
+363,61,20,Sacramento between Mason and Taylor St,,45,36,55,55,280,43,463
+364,61,20,California between Mason and Taylor St,,45,36,55,55,280,43,463
+365,61,20,Leavenworth at McAllister St,,45,36,55,55,280,43,463
+366,61,20,Embarcadero between Market to Fillmore St,,45,36,55,55,280,43,463
+367,61,20,Coit Tower,,45,36,55,55,280,43,463
+368,61,20,Palace of Fine Arts (3301 Lyon Street),,45,36,55,55,280,43,463
+369,61,20,Presidio Heights Neighborhood ,,45,36,55,55,280,43,463
+370,62,3,387 Fair Oaks at 25th Street,,46,37,56,56,65,44,
+371,63,36,Transbay Terminal (Mission Street at 1st Street),"Built in 1939, the Terminal linked San Francisco, the East Bay, and Sacramento by rail for the first time.",47,38,57,57,282,45,
+372,63,36,"Fairmont Hotel (950 Mason Street, Nob Hill)","In 1945 the Fairmont hosted the United Nations Conference on International Organization as delegates arrived to draft a charter for the organization. The U.S. Secretary of State, Edward Stettinius drafted the charter in the hotel's Garden Room.",47,38,57,57,282,45,
+373,63,36,22nd and Carolina Streets (Potrero Hill),,47,38,57,57,282,45,
+374,64,18,San Francisco Public Library Main Branch (100 Larkin Street),,48,6,58,58,216,46,
+375,65,37,"Mission Dolores (3321 16th Street, Mission District)","Mission Dolores' official name is Mission San Francisco de Assis. It is the oldest building in San Francisco, built in 1791, and has survived two major earthquakes.",49,13,59,59,178,47,
+376,65,37,City Hall,"The dome of SF's City Hall is almost a foot taller than that of the US Capitol Building. In 1954, Joe DiMaggio and Marilyn Monroe married at the Beaux Arts-style building.",49,13,59,59,178,47,
+377,65,37,Bix Restaurant (56 Gold Street),,49,13,59,59,178,47,
+378,66,35,The Castro,"From 1910-1920 the Castro was called ""Little Scandinavia"" because of its high concentration of residents of Scandinavian ancestry.",50,39,60,60,283,48,
+379,67,38,,,51,40,61,,284,49,
+380,68,39,Treasure Island,"An artificial island, Treasure Island was created for the 1939 Golden Gate International Exposition, and is named after the novel by Robert Louis Stevenson, a one-time San Francisco resident.",52,6,62,61,285,50,
+381,68,39,Twin Peaks,"The 2nd highest point in SF after Mt. Davidson, Twin Peaks sit at the geographic center of SF. The native Ohlone people called the area “Los Pechos de la Chola” or ""Breasts of the Indian Maiden,"" but in the 19th Century when America took over the area, it was renamed ""Twin Peaks"".",52,6,62,61,285,50,
+382,68,39,Sound Factory (1st and Harrison Streets),,52,6,62,61,285,50,
+383,68,39,"Java House (Pier 40, Embarcadero)",,52,6,62,61,285,50,
+384,68,39,Alta Plaza Park,The park was originally a rock quarry and served as a campground for many survivors of the 1906 earthquake. The site was converted to a park in 1910.,52,6,62,61,285,50,
+385,68,39,82 & 67 Rico Way (Marina District),,52,6,62,61,285,50,
+386,69,40,24th Street between Mission Street and Potrero Avenue,,15,41,63,62,286,51,40
+387,69,40,La Rondalla (Valencia and 20th Streets),,15,41,63,62,286,51,40
+388,70,13,Palace of Fine Arts,,53,22,64,63,287,52,
+389,71,15,Powell & California Streets,,54,19,65,64,288,53,464
+390,71,15,Southern Pacific Memorial Hospital (1400 Fell Street),,54,19,65,64,288,53,464
+391,71,15,The Embarcadero/ Ferry Building,"Every hour and half-hour, the clock bell atop the Ferry Building chimes portions of the Westminster Quarters.",54,19,65,64,288,53,464
+392,71,15,Union Square,"During the Civil War, pro-Union rallies were held in the Square, and thus the area was called ""Union Square"". ",54,19,65,64,288,53,464
+393,71,15,Westin St. Francis Hotel (335 Powell Street),"The hotel was originally supposed to be named the Crocker Hotel, after Charles Founder the railroad magnate who founded it. However, the hotel took the name the St. Francis after one of the earliest Gold Rush hotels. ",54,19,65,64,288,53,464
+394,71,15,Chambord Apartments (1298 Sacramento Street at Jones),,54,19,65,64,288,53,464
+395,71,15,Mark Hopkins Intercontinental Hotel (1 Nob Hill Circle),The Top of the Mark lounge and restaurant at the top of the hotel was formerly a penthouse suite.,54,19,65,64,288,53,464
+396,71,15,Market & Steuart Streets (Financial District),,54,19,65,64,288,53,464
+397,71,15,Market Street (from 6th- 4th Streets),,54,19,65,64,288,53,464
+398,72,41,Golden Gate Bridge,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",38,6,66,65,289,54,465
+399,72,41,The Malloch Apartment Building (1360 Montgomery Street),,38,6,66,65,289,54,465
+400,72,41,"Filbert Steps, Filbert Street",,38,6,66,65,289,54,465
+401,73,11,University Club,,55,42,67,66,290,55,466
+402,73,11,Filbert St. from Hyde to Leavenworth,,55,42,67,66,290,55,466
+403,73,11,California St from Mason to Kearny,,55,42,67,66,290,55,466
+404,74,30,2930 3rd Street,,56,43,68,67,291,56,467
+405,73,11,City Hall,,55,42,67,66,290,55,466
+406,73,11,Alioto Park,,55,42,67,66,290,55,466
+407,73,11,California & Powell ,,55,42,67,66,290,55,466
+408,73,11,Columbus & Pacific Ave,,55,42,67,66,290,55,466
+409,75,29,,,38,6,69,68,292,57,468
+410,76,18,,,57,20,70,69,293,58,469
+411,77,9,San Francisco International Airport,SFO has a museum dedicated to aviation history. ,58,44,46,70,294,59,470
+412,77,9,"Li Po (916 Grant Avenue at Washington, Chinatown)",,58,44,46,70,294,59,470
+413,77,9,Chinatown,"First established in the mid-19th Century, SF's Chinatown is the oldest and largest Chinatown in the US.",58,44,46,70,294,59,470
+414,78,42,"Marina Green, Marina District","Before the 1906 earthquake, the land on which Marina Green sits was a tidal marsh, and rubble from the earthquake was dumped on the site. However, the site was filled in to provide land for the 1915 Panama-Pacific Exhibition. ",59,30,71,71,295,60,
+415,78,42,"Washington Square, North Beach",,59,30,71,71,295,60,
+416,78,42,The Embarcadero,,59,30,71,71,295,60,
+417,78,42,"St. Peter & Paul's Church (666 Filbert Street, Washington Square)","Though Marilyn Monroe and Joe DiMaggio were not allowed to be married at the Church (DiMaggio had married his first wife at the Church but was divorced), the couple returned to the steps of the Church for photos, following their City Hall nuptials.",59,30,71,71,295,60,
+418,78,42,San Francisco Drydock (20th and Illinois Streets),,59,30,71,71,295,60,
+419,78,42,Portsmouth Square (Chinatown),In 1847 the first public school in California was erected on what would become Portsmouth Square.,59,30,71,71,295,60,
+420,78,42,"Mt. Davidson Cross, Mt. Davidson","The cross sits at the highest point in San Francisco (938 feet). This version of the cross was erected in 1934.Though in Dirty Harry the cross is lit at night, the City stopped this practice in 1990.",59,30,71,71,295,60,
+421,78,42,Mission Dolores Park (Mission District),"The two land plots that comprise the Park were used as a Jewish cemetery until 1894 when San Francisco prohibited all burials within city limits. The graves were moved to Colma, CA.",59,30,71,71,295,60,
+422,78,42,"Kezar Stadium, Golden Gate Park",The stadium was demolished and completely rebuilt after sustaining damages in the 1898 Loma Prieta earthquake.,59,30,71,71,295,60,
+423,78,42,Holiday Inn Select Downtown Hotel (750 Kearney Street),,59,30,71,71,295,60,
+424,78,42,Hall of Justice (850 Bryant Street),,59,30,71,71,295,60,
+425,78,42,Forest Hill Station- MUNI,,59,30,71,71,295,60,
+426,78,42,Dante Building (1606 Stockton Street at Union),,59,30,71,71,295,60,
+427,78,42,"California Hall (625 Polk Street, Van Ness/Civic Center)",,59,30,71,71,295,60,
+428,78,42,Bank of America Building (555 California Street),"The Bank of America Building was the tallest building on the West Coast from 1969-1972, when it was surpassed by the TransAmerica Pyramid. Today, the Bank of America building is the 5th tallest building on the West Coast.",59,30,71,71,295,60,
+429,79,18,Webster Street,,60,45,72,72,3,61,
+430,79,18,Telegraph Hill Blvd (Telegraph Hill),,60,45,72,72,3,61,
+431,79,18,Larkin & Hyde Streets,,60,45,72,72,3,61,
+432,79,18,Gabbiano's Restaurant (Ferry Building),"Every hour and half-hour, the clock bell atop the Ferry Building chimes portions of the Westminster Quarters.",60,45,72,72,3,61,
+433,79,18,Coit Tower,"The Tower was funded by a gift bequeathed by Lillie Hitchcock Coit, a socialite who reportedly liked to chase fires. Though the tower resembles a firehose nozzle, it was not designed this way.",60,45,72,72,3,61,
+434,79,18,2107 Union Street,,60,45,72,72,3,61,
+435,79,18,2100 Green Street,,60,45,72,72,3,61,
+436,80,38,"South Park (Between 2nd and 3rd Streets, Brannan and Bryant Streets)",,61,46,73,73,296,62,
+437,80,38,"Fort Point (Presidio, Golden Gate National Recreation Area)","Built in 1853, Fort Point is the only West Coast fort built by the Union Army. Though the Confederate army planned to attack San Francisco, the commanding Confederate general learned that the war had ended while end route to SF.",61,46,73,73,296,62,
+438,81,43,,,14,13,74,74,297,7,
+439,82,33,"West Chrissy Field (Presidio, Golden Gate National Recreation Area)",This movie was the first to film in the revamped Chrissy Field Picnic Area.,14,13,75,75,3,63,
+440,82,33,"Sacramento St., Between Pierce & Broderick Streets ",,14,13,75,75,3,63,
+441,82,33,Hyde Street & Lombard Street,,14,13,75,75,3,63,
+442,82,33,"Building 924, Presidio (Golden Gate National Recreation Area)","In 1776, Spain made the Presidio a fortified area. The area was then given to Mexico, but then given to the US in 1848. The 1994 demilitarization of the area in 1994 marked the end of its 219 years of military use. ",14,13,75,75,3,63,
+443,82,33,"Broadway, Between Franklin & Laguna Streets",,14,13,75,75,3,63,
+444,83,43,Baker Beach,"From 1986-1990, the north end of Baker Beach was home to the Burning Man festival.",62,47,76,76,298,64,
+445,83,43,Elbo Room (647 Valencia Street),"This location is called the ""Café Blue Eyes"" in the film.",62,47,76,76,298,64,
+446,84,8,Pier 39,,46,27,56,77,299,65,
+447,84,8,Bay Bridge,"Before opening in 1936, the bridge was blessed by Cardinal Secretary of State Eugenio Pacelli, who later became Pope Pius XII. ",46,27,56,77,299,65,
+448,85,37,,,63,48,77,78,150,66,
+449,86,26,Palace of Fine Arts (3301 Lyon Street),"The original Palace was built for the 1915 Panama-Pacific Exposition, and completely destroyed in 1964. It was rebuilt in 1965.",64,49,78,79,220,67,
+450,86,26,Moose's Restaurant (1652 Stockton),,64,49,78,79,220,67,
+451,86,26,Mario's Bohemian Cigar Store (Washington Square),,64,49,78,79,220,67,
+452,74,30,Hayes Street between Ashbury and Shrader,,56,43,68,67,291,56,467
+453,86,26,"Center for the Arts, Yerba Buena Gardens (701 Mission Street)",,64,49,78,79,220,67,
+454,86,26,"Castro Theatre (429 Castro Street, The Castro)","The original Castro Theatre was built in 1910, a few doors down from the current theatre. The original theatre was converted into retail space, and the current theatre was built in the 1920s.",64,49,78,79,220,67,
+455,86,26,20th & Connecticut Streets (Potrero Hill),,64,49,78,79,220,67,
+456,86,26,19 Green Street (North Beach),,64,49,78,79,220,67,
+457,86,26,1138 Filbert Street,,64,49,78,79,220,67,
+458,86,26,North Beach Video (1398 Grant Avenue at Green),The video store has since moved to an adjacent location. ,64,49,78,79,220,67,
+459,87,44,Alcatraz Island,Alcatraz Island was a military fort before it became a prison.,4,3,79,80,295,68,471
+460,88,20,Treasure Island,,65,43,80,81,300,69,472
+461,88,20,"Andronico's, 1200 Irving Street",,65,43,80,81,300,69,472
+462,88,20,"Mudpie, 2185 Fillmore Street",,65,43,80,81,300,69,472
+463,88,20,Hooker Alley Garden on Mason between Bush & Pine,,65,43,80,81,300,69,472
+464,88,20,Broadway @ Jones Streets,,65,43,80,81,300,69,472
+465,88,20,"Outpost Studios, 69 Green Street",,65,43,80,81,300,69,472
+466,88,20,"Legion of Honor, 100 34th Ave","California Palace of the Legion of Honor was completed in 1924, and on Armistice Day of that year the doors opened to the public. In keeping with the wishes of the donors, to “honor the dead while serving the living,” it was accepted by the city of San Francisco as a museum of fine arts dedicated to the memory of the 3,600 California men who had lost their lives on the battlefields of France during World War I.",65,43,80,81,300,69,472
+467,88,20,UCSF Mt Zion 1600 Divisadero,,65,43,80,81,300,69,472
+468,88,20,343 Union Street,,65,43,80,81,300,69,472
+469,88,20,Pier 39 San Francisco,,65,43,80,81,300,69,472
+470,88,20,Pier 14 San Francisco,,65,43,80,81,300,69,472
+471,88,20,Chaya / Perry's 132 Embarcadero,,65,43,80,81,300,69,472
+472,88,20,Castle Street @ Green Street,,65,43,80,81,300,69,472
+473,88,20,1227 Montgomery Street,,65,43,80,81,300,69,472
+474,88,20,San Francisco City Hall,The museum party interiors were shot in the Historic San Francisco City Hall.,65,43,80,81,300,69,472
+475,88,20,San Francisco Airport,,65,43,80,81,300,69,472
+476,88,20,"Benu Restaurant, 22 Hawthorne Street",,65,43,80,81,300,69,472
+477,88,20,California Street between Front and Davis,,65,43,80,81,300,69,472
+478,88,20,Jones @ Broadway,,65,43,80,81,300,69,472
+479,88,20,"Bentley Reserve, 301 Battery Street","The Bentley Reserve is the former San Francisco Federal Reserve. Designed by architect George W. Kelham and completed in 1924, the building has been a prominent landmark of the Financial District for 89 years.",65,43,80,81,300,69,472
+480,88,20,"St Regis Hotel, 125 3rd Street",,65,43,80,81,300,69,472
+481,88,20,"Marriott Marquis, 780 Mission Street","The Marriott Marquis opened on October 17, 1989, the day of the Loma Prieta earthquake.[7] With better earthquake proofing than several nearby hotels, the building only lost a single window.[7]",65,43,80,81,300,69,472
+482,88,20,"Laguna Honda Hospital, 375 Laguna Honda Blvd.",,65,43,80,81,300,69,472
+483,88,20,Turk Street between Mason & Leavenworth,,65,43,80,81,300,69,472
+484,88,20,California Street between Sansome & Davis,,65,43,80,81,300,69,472
+485,88,20,3rd Street between Market & Harrison,,65,43,80,81,300,69,472
+486,88,20,Mason Street @ Vallejo ,,65,43,80,81,300,69,472
+487,88,20,225 California Street,,65,43,80,81,300,69,472
+488,89,29,George Washington High School (600 32nd Avenue ),,5,4,69,82,301,57,473
+489,89,29,"Wells Fargo Bank (1 California Street, Financial District)",,5,4,69,82,301,57,473
+490,89,29,The Sea Captain's Chest (Fisherman's Wharf),,5,4,69,82,301,57,473
+491,89,29,"Sheraton Palace Hotel (2 Montgomery Street, Financial District)","The hotel was destroyed in the 1906 earthquake and fire, had to be rebuilt, and was reopened in 1909. ",5,4,69,82,301,57,473
+492,89,29,Roaring Twenties Nightclub (555 Broadway at Columbus),,5,4,69,82,301,57,473
+493,89,29,Candlestick Park,"Then Vice President Richard Nixon threw out the first pitch when Candlestick opened in 1960. On August 29, 1966, The Beatles played their last concert for paying fans at Candlestick Park.",5,4,69,82,301,57,473
+494,89,29,2632 Larkin Street at Lombard,,5,4,69,82,301,57,473
+495,89,29,100 St. Germain Avenue,,5,4,69,82,301,57,473
+496,89,29,1 Montgomery Street at Post,,5,4,69,82,301,57,473
+497,90,45,Grace Cathedral Episcopal Church (1100 California Street),Grace Cathedral Episcopal Church is the West Coast's largest Episcopalian cathedral.,15,41,81,83,302,70,474
+498,90,45,"Fairmont Hotel (950 Mason Street, Nob Hill)","In 1945 the Fairmont hosted the United Nations Conference on International Organization as delegates arrived to draft a charter for the organization. The U.S. Secretary of State, Edward Stettinius drafted the charter in the hotel's Garden Room.",15,41,81,83,302,70,474
+499,90,45,2230 Sacramento Street,"Called ""1001 Franklin"" in the film.",15,41,81,83,302,70,474
+500,90,45,Nob Hill,"Railroad tycoons like Leland Stanford (founder of Stanford University) lived in Nob Hill at the turn of the 20th Century. The 1906 earthquake completely destroyed Nob Hill, with the exception of the wall that surrounded the mansions of Stanford and his neighbor Mark Hopkins. ",15,41,81,83,302,70,474
+501,91,5,,,66,50,82,84,303,71,
+502,92,35,"Postcard Row (Alamo Square, Hayes Valley)",The 6 Victorian homes across from Alamo Square Park are among the few Victorians to survive the Great Fire.,4,3,83,85,214,72,
+503,93,8,,,67,22,84,79,265,73,
+504,94,46,400 Montgomery Street,,68,6,85,86,113,74,475
+505,94,46,Folsom Street & Embarcadero,,68,6,85,86,113,74,475
+506,94,46,Varennes Alley between Filbert and Union,,68,6,85,86,113,74,475
+507,94,46,"St. Peter & Paul's Church (666 Filbert Street, Washington Square)","Though Marilyn Monroe and Joe DiMaggio were not allowed to be married at the Church (DiMaggio had married his first wife at the Church but was divorced), the couple returned to the steps of the Church for photos, following their City Hall nuptials.",68,6,85,86,113,74,475
+508,94,46,"San Francisco General Hospital Medical Center (1001 Potrero Avenue, Potrero Hill)",SF General Hospital is the only Level I Trauma Center serving San Francisco and northern San Mateo County. ,68,6,85,86,113,74,475
+509,94,46,Kohl Building (400 Montgomery Street),,68,6,85,86,113,74,475
+510,94,46,Bank of America Building (555 California Street),"The Bank of America Building was the tallest building on the West Coast from 1969-1972, when it was surpassed by the TransAmerica Pyramid. Today, the Bank of America building is the 5th tallest building on the West Coast.",68,6,85,86,113,74,475
+511,94,46,90 Gold Street,,68,6,85,86,113,74,475
+512,94,46,5th and Beale Streets,,68,6,85,86,113,74,475
+513,95,22,"Westin St. Francis Hotel (335 Powell Street, Union Square)","The hotel was originally supposed to be named the Crocker Hotel, after Charles Founder the railroad magnate who founded it. However, the hotel took the name the St. Francis after one of the earliest Gold Rush hotels. ",38,6,86,87,264,75,
+514,95,22,"Public Health Service Hospital (Presidio, Golden Gate National Recreation Area)","In 1776, Spain made the Presidio a fortified area. The area was then given to Mexico, but then given to the US in 1848. The 1994 demilitarization of the area in 1994 marked the end of its 219 years of military use. ",38,6,86,87,264,75,
+515,95,22,"Presidio, Golden Gate National Recreation Area","In 1776, Spain made the Presidio a fortified area. The area was then given to Mexico, but then given to the US in 1848. The 1994 demilitarization of the area in 1994 marked the end of its 219 years of military use. ",38,6,86,87,264,75,
+516,95,22,City Hall,"The dome of SF's City Hall is almost a foot taller than that of the US Capitol Building. In 1954, Joe DiMaggio and Marilyn Monroe married at the Beaux Arts-style building.",38,6,86,87,264,75,
+517,95,22,Bix Restaurant (56 Gold Street),,38,6,86,87,264,75,
+518,96,47,Golden Gate Bridge,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",69,41,87,88,304,76,476
+519,96,47,Chinatown,"First established in the mid-19th Century, SF's Chinatown is the oldest and largest Chinatown in the US.",69,41,87,88,304,76,476
+520,97,8,Treasure Island,"An artificial island, Treasure Island was created for the 1939 Golden Gate International Exposition, and is named after the novel by Robert Louis Stevenson, a one-time San Francisco resident.",70,25,88,89,265,77,
+521,98,48,Palace of Fine Arts (3301 Lyon Street),"The original Palace was built for the 1915 Panama-Pacific Exposition, and completely destroyed in 1964. It was rebuilt in 1965.",4,3,89,90,305,78,
+522,99,7,War Memorial Opera House (401 Van Ness Avenue),In 1945 the United Nations had its first conference at The War Memorial Opera House.,4,3,90,91,306,79,477
+523,99,7,Sutter & Buchannan Streets,,4,3,90,91,306,79,477
+524,99,7,Sutter & Baker Streets,,4,3,90,91,306,79,477
+525,99,7,Sokoji-Soto Zen Buddhist Temple (1691 Laguna Street),,4,3,90,91,306,79,477
+526,99,7,Sacramento & Hyde Streets (Nob Hill),,4,3,90,91,306,79,477
+527,99,7,"Postcard Row (Alamo Square, Hayes Valley)",The 6 Victorian homes across from Alamo Square Park are among the few Victorians to survive the Great Fire.,4,3,90,91,306,79,477
+528,99,7,Potrero Hill Bathhouse & Feed Co. (199 Mississippi Street),,4,3,90,91,306,79,477
+529,99,7,Octavia & Hayes Streets (Hayes Valley),,4,3,90,91,306,79,477
+530,99,7,Montgomery & Pine Streets (Financial District),,4,3,90,91,306,79,477
+531,99,7,Laguna & Sacramento Streets (Pacific Heights),,4,3,90,91,306,79,477
+532,99,7,"Hayes Valley Care (601 Laguna Street, Hayes Valley)",,4,3,90,91,306,79,477
+533,99,7,Golden Gate & Steiner Streets (Hayes Valley),,4,3,90,91,306,79,477
+534,99,7,"Fort Point, Presidio","Built in 1853, Fort Point is the only West Coast fort built by the Union Army. Though the Confederate army planned to attack San Francisco, the commanding Confederate general learned that the war had ended while end route to SF.",4,3,90,91,306,79,477
+535,99,7,Fort Mason (Golden Gate National Recreation Area),"Constructed in 1864 as a coastal defense site, Fort Mason went on to serve as an army post for more than 100 years.",4,3,90,91,306,79,477
+536,99,7,Flood Building (870 Market Street),,4,3,90,91,306,79,477
+537,99,7,"Fiesta Laundromat (898 S. Van Ness Ave., Mission)",,4,3,90,91,306,79,477
+538,99,7,City Hall,"The dome of SF's City Hall is almost a foot taller than that of the US Capitol Building. In 1954, Joe DiMaggio and Marilyn Monroe married at the Beaux Arts-style building.",4,3,90,91,306,79,477
+539,99,7,California & Larkin Streets (Nob Hill),,4,3,90,91,306,79,477
+540,99,7,"Asian Art Museum (200 Larkin Street, Civic Center)",The Dalai Lama opened an exhibition on Wisdom and Compassion at the museum in 1991.,4,3,90,91,306,79,477
+541,99,7,Andrew S. Hallidie Plaza (Market & Powell Streets),,4,3,90,91,306,79,477
+542,99,7,430 Vallejo Street (Telegraph Hill),,4,3,90,91,306,79,477
+543,99,7,24th and Castro Streets (Noe Valley),,4,3,90,91,306,79,477
+544,100,49,Alco Plaza,,38,51,91,92,282,80,478
+545,100,49,Twin Peaks,"The 2nd highest point in SF after Mt. Davidson, Twin Peaks sit at the geographic center of SF. The native Ohlone people called the area ""called the area “Los Pechos de la Chola” or ""Breasts of the Indian Maiden,"" but in the 19th Century when America took over the area, it was renamed ""Twin Peaks"".",38,51,91,92,282,80,478
+546,100,49,TransAmerica Pyramid (600 Montgomery Street),"The Pyramid was the tallest skyscraper west of the Mississippi from 1972-1974, until it was surpassed by Los Angeles' Aon Center. ",38,51,91,92,282,80,478
+547,100,49,Stockton Tunnel (Stockton Street at Sutter Street),"Opened in 1914, the Stockton Tunnel was built to provide North Beach residents access to the thriving downtown area.",38,51,91,92,282,80,478
+548,100,49,"Steinhart Aquarium (California Academy of Sciences, Golden Gate Park)","The Steinhart Aquarium is home to over 38,000 animals, which represent more than 900 species. ",38,51,91,92,282,80,478
+549,100,49,Potrero Hill,The most crooked street in San Francisco is actually Potrero Hill's Vermont Street between 20th St & 22nd St.,38,51,91,92,282,80,478
+550,100,49,Nob Hill,"Railroad tycoons like Leland Stanford (founder of Stanford University) lived in Nob Hill at the turn of the 20th Century. The 1906 earthquake completely destroyed Nob Hill, with the exception of the wall that surrounded the mansions of Stanford and his neighbor Mark Hopkins. ",38,51,91,92,282,80,478
+551,100,49,Hyatt Regency Hotel (5 Embarcadero Center),,38,51,91,92,282,80,478
+552,100,49,Folsom Street (SOMA),,38,51,91,92,282,80,478
+553,100,49,"Fairmont Hotel (950 Mason Street, Nob Hill)","In 1945 the Fairmont hosted the United Nations Conference on International Organization as delegates arrived to draft a charter for the organization. The U.S. Secretary of State, Edward Stettinius drafted the charter in the hotel's Garden Room.",38,51,91,92,282,80,478
+554,100,49,Embarcadero Freeway,,38,51,91,92,282,80,478
+555,100,49,Candlestick Park (602 Jamestown Ave.),"Then Vice President Richard Nixon threw out the first pitch when Candlestick opened in 1960. On August 29, 1966, The Beatles played their last concert for paying fans at Candlestick Park.",38,51,91,92,282,80,478
+556,100,49,Broadway and Columbus Avenue (North Beach),,38,51,91,92,282,80,478
+557,101,50,The Barbary Coast,"The Barbary Coast was a red-light district that was largely destroyed in the 1906 earthquake. Though some of the establishments were rebuilt after the earthquake, an anti-vice campaign put the establishments out of business.",38,6,92,93,307,81,479
+558,102,8,755 Vallejo Street,,70,25,93,94,263,82,
+559,102,8,The Tamalpais Building (1201 Greenwich Street at Hyde),,70,25,93,94,263,82,
+560,102,8,"Neiman Marcus (150 Stockton Street, Union Square)",The City of Paris department store previously occupied the space that now houses Neiman Marcus. City of Paris' original rotunda and glass dome were incorporated into Neiman Marcus' design.,70,25,93,94,263,82,
+561,102,8,First Bank (550 Montgomery Street at Commercial),"Called ""Stanhope Bank"" in the film.",70,25,93,94,263,82,
+562,102,8,Bay Bridge,"Before opening in 1936, the bridge was blessed by Cardinal Secretary of State Eugenio Pacelli, who later became Pope Pius XII. ",70,25,93,94,263,82,
+563,103,48,California & Grant Streets,,71,52,94,95,308,83,
+564,103,48,War Memorial Building (401 Van Ness Avenue),,71,52,95,95,308,83,
+565,103,48,Transbay Terminal (Mission Street at 1st Street),"Built in 1939, the Terminal linked San Francisco, the East Bay, and Sacramento by rail for the first time.",71,52,95,95,308,83,
+566,103,48,140 Maiden Lane,,71,52,95,95,308,83,
+567,103,48,"St. Peter & Paul's Church (666 Filbert Street, Washington Square)","Though Marilyn Monroe and Joe DiMaggio were not allowed to be married at the Church (DiMaggio had married his first wife at the Church but was divorced), the couple returned to the steps of the Church for photos, following their City Hall nuptials.",71,52,95,95,308,83,
+568,103,48,"Neiman Marcus (150 Stockton Street, Union Square)",The City of Paris department store previously occupied the space that now houses Neiman Marcus. City of Paris' original rotunda and glass dome were incorporated into Neiman Marcus' design.,71,52,95,95,308,83,
+569,103,48,Mason Street at Jackson,,71,52,95,95,308,83,
+570,103,48,M.H. de Young Memorial Museum (Golden Gate Park),,71,52,95,95,308,83,
+571,103,48,Embarcadero Street Station- BART ,,71,52,95,95,308,83,
+572,103,48,Candlestick Park (602 Jamestown Ave.),"Then Vice President Richard Nixon threw out the first pitch when Candlestick opened in 1960. On August 29, 1966, The Beatles played their last concert for paying fans at Candlestick Park.",71,52,95,95,308,83,
+573,104,20,"Mission Dolores Park, 19th St. & Dolores St.","After the devastating earthquake of 1906, the park served as a refugee camp for more than 1600 families who lost their home in the disaster.",72,53,96,96,309,84,480
+574,104,20,Green and Divisadero,,72,53,96,96,309,84,480
+575,104,20,1375 Haight St.,,72,53,96,96,309,84,480
+576,104,20,"Mission Thrift, 2330 Mission St.",,72,53,96,96,309,84,480
+577,104,20,"The Castro Theater, 429 Castro St.",,72,53,96,96,309,84,480
+578,104,20,Clarion Alley between Valencia and Mission,The murals that make up this famous alley were first painted in 1992 and still looked after by the Clarion Alley Mural Project.,72,53,96,96,309,84,480
+579,104,20,"Macchiarini Steps, Kearny between Vallejo and Broadway",The namesake for the steps was an Italian-American California-based modernist jeweler and sculptor who pioneered avant-garde jewelry.,72,53,96,96,309,84,480
+580,104,20,Fillmore and Waller,,72,53,96,96,309,84,480
+581,104,20,"La Taqueria, 2889 Mission St.","The restaurant was given the honor of ""America's Best Burrito"" in 2014 by ESPN's FiveThirtyEight. ",72,53,96,96,309,84,480
+582,104,20,Various Haight St. Vintage Shops,,72,53,96,96,309,84,480
+583,104,20,"Clayton Post Office, 554 Clayton St.",,72,53,96,96,309,84,480
+584,104,20,Taylor and Union,,72,53,96,96,309,84,480
+585,104,20,Filbert between Leavenworth and Hyde,,72,53,96,96,309,84,480
+586,104,20,Filbert between Grant and Kearny,,72,53,96,96,309,84,480
+587,104,20,Filbert and Kearny Steps,,72,53,96,96,309,84,480
+588,104,20,"Boulevard Restaurant, 1 Mission St.",,72,53,96,96,309,84,480
+589,104,20,Grant between California and Washington,,72,53,96,96,309,84,480
+590,104,20,"Musee Mecanique, Fisherman's Wharf",An interactive museum consisting of 20th century penny arcade games and artifacts. ,72,53,96,96,309,84,480
+591,104,20,Mission between 19th and 25th St.,,72,53,96,96,309,84,480
+592,104,20,"Underground SF, 424 Haight St.",,72,53,96,96,309,84,480
+593,104,20,Fillmore between Haight and Waller,,72,53,96,96,309,84,480
+594,105,19,Sacramento & Washington Streets,,73,,97,97,310,,
+595,106,11,Kearney & Pine St.,,74,6,98,98,311,85,481
+596,106,11,California & Davis St,,74,6,98,98,311,85,481
+597,106,11,Pine St. & Davis St,,74,6,98,98,311,85,481
+598,106,11,Sacramento & Front St.,,74,6,98,98,311,85,481
+599,106,11,Broadway & Sansome,,74,6,98,98,311,85,481
+600,106,11,Broadway & Columbus,,74,6,98,98,311,85,481
+601,106,11,Post & Jones St.,,74,6,98,98,311,85,481
+602,106,11,Stockton & Clay St,,74,6,98,98,311,85,481
+603,106,11,Bush & Kearny,,74,6,98,98,311,85,481
+604,106,11,Mission & Fremont St,,74,6,98,98,311,85,481
+605,106,11,Eddy & Taylor St.,,74,6,98,98,311,85,481
+606,106,11,Pier 7 (The Embarcadero),,74,6,98,98,311,85,481
+607,106,11,Pier 1,,74,6,98,98,311,85,481
+608,106,11,Embarcadero & Washington,,74,6,98,98,311,85,481
+609,106,11,Mission & Beal,,74,6,98,98,311,85,481
+610,106,11,Potrero &San Bruno,,74,6,98,98,311,85,481
+611,107,48,Ross Alley (Chinatown),Ross Alley is the oldest alley in San Francisco. ,75,54,99,99,312,86,
+612,107,48,University of California Hastings College of the Law,,71,52,95,99,312,86,
+613,107,48,Bush Street (between Grant & Kearny Streets),,75,54,99,99,312,86,
+614,107,48,Buena Vista Park (Haight Street at Buena Vista),"Established in 1867, Buena Vista Park is the oldest official park in San Francisco.",75,54,99,99,312,86,
+615,107,48,Golden Gate Bridge,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",75,54,99,99,312,86,
+616,108,51,Various locations in San Francisco during driving scene,,5,4,100,100,292,87,482
+617,109,52,Cliff House (1090 Point Lobos Avenue),"In 1887, the Cliff House was severely damaged when the schooner Parallel, abandoned and loaded with dynamite, ran aground on the rocks below.",71,52,101,101,313,88,483
+618,109,52,Bush and Sutter Streets,,71,52,101,101,313,88,483
+619,109,52,Hayes Street at Laguna,,71,52,101,101,313,88,483
+620,110,25,435 23rd Street at Illinois,,76,27,102,102,314,89,
+621,110,25,435 23rd Street at Illinois,,76,27,102,102,314,89,
+622,110,25,435 23rd Street at Illinois,,76,27,102,102,314,89,
+623,111,53,Sutter Street between Powell and Mason,,5,4,103,103,315,90,484
+624,111,53,San Francisco International Airport,SFO has a museum dedicated to aviation history. ,5,4,103,103,315,90,484
+625,111,53,Mel's Drive-In (Corner South Van Ness & Mission St.),This restaurant location was demolished; however another Mel's was reopened in 1986 on 3355 Geary Blvd. ,5,4,103,103,315,90,484
+626,111,53,634 Raycliff Terrace,,5,4,103,103,315,90,484
+627,112,33,,,77,27,104,104,316,91,
+628,113,43,,,78,41,105,105,240,,
+629,114,40,"Fairmont Hotel (950 Mason Street, Nob Hill)","In 1945 the Fairmont hosted the United Nations Conference on International Organization as delegates arrived to draft a charter for the organization. The U.S. Secretary of State, Edward Stettinius drafted the charter in the hotel's Garden Room.",15,41,106,106,317,,
+630,115,42,Conservatory of Flowers (Golden Gate Park),"The Conservatory, unveiled in 1879, is the oldest public conservatory in the Western Hemisphere.",79,3,107,91,318,92,
+631,115,42,Sutro Baths (Point Lobos Avenue),,79,3,107,91,318,92,
+632,115,42,Golden Gate Park,,79,3,107,91,318,92,
+633,116,46,Stockton Tunnel (Stockton Street at Sutter Street),"Opened in 1914, the Stockton Tunnel was built to provide North Beach residents access to the thriving downtown area.",15,55,108,107,319,,
+634,116,46,2810 Pacific Avenue,,15,55,108,107,319,,
+635,116,46,War Memorial Opera House (401 Van Ness Avenue),In 1945 the United Nations had its first conference at The War Memorial Opera House.,15,55,108,107,319,,
+636,116,46,Conservatory of Flowers (Golden Gate Park),"The Conservatory, unveiled in 1879, is the oldest public conservatory in the Western Hemisphere.",15,55,108,107,319,,
+637,117,34,San Francisco Art Institute (800 Chestnut Street),,80,56,109,108,19,93,451
+638,117,34,Washington Square Bar & Grill (1707 Powell),,80,56,109,108,19,93,451
+639,117,34,City Lights Bookstore (261 Columbus),"One of the country's earliest bookstores, City Lights was founded by, and still owned by beat poet Lawrence Ferlinghetti. The bookstore was often frequented by Beat writers like Allen Ginsberg and Jack Kerouac.",80,56,109,108,19,93,451
+640,118,54,,,13,12,110,109,14,94,485
+641,119,1,Muni Metro East (501 Cesar Chavez),,81,57,111,110,320,95,
+642,120,49,Castagnola's Restaurant (Fisherman's Wharf),,82,58,112,111,321,96,473
+643,120,49,Sheraton Palace Hotel (639 Market Street),"The hotel was destroyed in the 1906 earthquake and fire, had to be rebuilt, and was reopened in 1909. ",82,58,112,111,321,96,473
+644,120,49,Golden Gate Bridge,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",82,58,112,111,321,96,473
+645,121,19,Hobart Building (582 Market Street),,83,6,113,112,322,97,
+646,121,19,The Final Final (2990 Baker Street),,83,6,113,112,322,97,
+647,121,19,1160 Taylor Street,,83,6,113,112,322,97,
+648,122,55,Hyatt Regency Hotel (5 Embarcadero Center),,13,12,114,113,323,98,486
+649,122,55,"Fort Point (Presidio, Golden Gate National Recreation Area)","Built in 1853, Fort Point is the only West Coast fort built by the Union Army. Though the Confederate army planned to attack San Francisco, the commanding Confederate general learned that the war had ended while end route to SF.",13,12,114,113,323,98,486
+650,122,55,"Conservatory of Flowers, Golden Gate Park","The Conservatory, unveiled in 1879, is the oldest public conservatory in the Western Hemisphere.",13,12,114,113,323,98,486
+651,123,3,Bank of America Building (555 California Street),"The Bank of America Building was the tallest building on the West Coast from 1969-1972, when it was surpassed by the TransAmerica Pyramid. Today, the Bank of America building is the 5th tallest building on the West Coast.",13,12,114,113,323,98,
+652,123,3,391 Pennsylvania Avenue at 19th Street,,63,48,49,114,324,99,
+653,123,3,Vesuvio Café (255 Columbus Avenue),Jack Kerouac was a regular at the café.,13,12,114,113,323,98,
+654,123,3,Union Square,"During the Civil War, pro-Union rallies were held in the Square, and thus the area was called ""Union Square"". ",13,12,114,113,323,98,
+655,123,3,Maiden Lane,,13,12,114,113,323,98,
+656,123,3,Condor Club (Columbus and Broadway),,13,12,114,113,323,98,
+657,123,3,Chase H & Q  (1 Bush Street at Sansome),,13,12,114,113,323,98,
+658,124,43,Pier 39 (Fisherman's Wharf),,70,25,115,115,278,100,
+659,125,38,,,84,59,116,116,104,101,
+660,126,39,Lombard & Hyde Streets,,4,3,117,24,223,102,487
+661,127,18,Marriot Hotel (55 4th Street at Market),,13,12,118,117,325,103,
+662,128,38,Telegraph Hill,"Largely untouched by the 1906 earthquake, Telegraph Hill has the most pre-1870 buildings in the city.",15,41,119,118,326,104,
+663,128,38,Vallejo Street at Sansome,,15,41,119,118,326,104,
+664,128,38,Golden Gate Bridge,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",15,41,119,118,326,104,
+665,128,38,Treasure Island,"An artificial island, Treasure Island was created for the 1939 Golden Gate International Exposition, and is named after the novel by Robert Louis Stevenson, a one-time San Francisco resident.",15,41,119,118,326,104,
+666,129,10,Flint & 16th (Castro),,85,,120,119,327,105,488
+667,129,10,"Grove & Polk, thru Fulton & 6th, Masonic, 28th & 47th",,85,,120,119,327,105,488
+668,129,10,Ocean Beach @ Balboa,,85,,120,119,327,105,488
+669,129,10,4100 20th St,,85,,120,119,327,105,488
+670,129,10,Harvey Milk Plaza,,85,,120,119,327,105,488
+671,129,10,F Train,,85,,120,119,327,105,488
+672,129,10,Sanchez/Cumberland steps and sidewalks,,85,,120,119,327,105,488
+673,130,56,"Fairmont Hotel (950 Mason Street, Nob Hill)","In 1945 the Fairmont hosted the United Nations Conference on International Organization as delegates arrived to draft a charter for the organization. The U.S. Secretary of State, Edward Stettinius drafted the charter in the hotel's Garden Room.",86,60,121,120,328,106,489
+674,130,56,The Ferry Building,"Every hour and half-hour, the clock bell atop the Ferry Building chimes portions of the Westminster Quarters.",86,60,121,120,328,106,489
+675,130,56,Grant Avenue (North Beach),,86,60,121,120,328,106,489
+676,131,35,Administration Building (Treasure Island),"An artificial island, Treasure Island was created for the 1939 Golden Gate International Exposition, and is named after the novel by Robert Louis Stevenson, a one-time San Francisco resident.",4,3,122,121,12,107,
+677,132,32,"Mark Hopkins Intercontinental Hotel (1 Nob Hill Circle, Nob Hill)",The Top of the Mark lounge and restaurant at the top of the hotel was formerly a penthouse suite.,87,6,123,122,210,108,46
+678,132,32,Telegraph Hill,"Largely untouched by the 1906 earthquake, Telegraph Hill has the most pre-1870 buildings in the city.",87,6,123,122,210,108,46
+679,132,32,Golden Gate Bridge,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",87,6,123,122,210,108,46
+680,133,48,Ferry Building,"Every hour and half-hour, the clock bell atop the Ferry Building chimes portions of the Westminster Quarters.",88,61,124,123,329,109,490
+681,133,48,Golden Gate Bridge,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",88,61,124,123,329,109,490
+682,133,48,100 Market Street at 6th Street,,88,61,124,123,329,109,490
+683,133,48,6th Street On-ramp to Highway 280,,88,61,124,123,329,109,490
+684,134,7,Pier 33 (Embarcadero),,89,19,111,124,286,110,491
+685,126,39,Hall of Justice (850 Bryant Street),,4,3,117,24,223,102,487
+686,134,7,"Department of Public Health (101 Grove Street at Polk, Civic Center)",,89,19,111,124,286,110,491
+687,134,7,United Nations Plaza (Civic Center),United Nations Plaza was built in 1975 and across its walkways are white lines into which the preamble to the preamble of the UN charter is carved.,89,19,111,124,286,110,491
+688,134,7,Transamerica Building (600 Montgomery Street at Clay),"The Pyramid was the tallest skyscraper west of the Mississippi from 1972-1974, until it was surpassed by Los Angeles' Aon Center. ",89,19,111,124,286,110,491
+689,134,7,San Francisco Drydock (20th and Illinois Streets),,89,19,111,124,286,110,491
+690,134,7,"Ramada Plaza Hotel Downtown (1231 Market Street, Civic Center)",,89,19,111,124,286,110,491
+691,134,7,"Postcard Row (Alamo Square, Hayes Valley)",The 6 Victorian homes across from Alamo Square Park are among the few Victorians to survive the Great Fire.,89,19,111,124,286,110,491
+692,134,7,Lafayette Park (Pacific Heights),,89,19,111,124,286,110,491
+693,134,7,Hamlin Hotel (385 Eddy Street),,89,19,111,124,286,110,491
+694,134,7,City Hall,"The dome of SF's City Hall is almost a foot taller than that of the US Capitol Building. In 1954, Joe DiMaggio and Marilyn Monroe married at the Beaux Arts-style building.",89,19,111,124,286,110,491
+695,134,7,Chinatown,"First established in the mid-19th Century, SF's Chinatown is the oldest and largest Chinatown in the US.",89,19,111,124,286,110,491
+696,134,7,Broadway Tunnel (Russian Hill),,89,19,111,124,286,110,491
+697,134,7,"Bimbo's 365 Club (1025 Columbus Avenue, North Beach)",,89,19,111,124,286,110,491
+698,134,7,720 Steiner Street (Hayes Valley),,89,19,111,124,286,110,491
+699,134,7,32 Napier Lane,,89,19,111,124,286,110,491
+700,134,7,1227 Montgomery Street (Telegraph Hill),,89,19,111,124,286,110,491
+701,135,1,1 Post Street,,90,,125,125,,,
+702,136,57,Hunters Point,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",91,4,126,126,330,111,492
+703,136,57,Chrissy Field,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",91,4,126,126,330,111,492
+704,136,57,Golden Gate Bridge,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",91,4,126,126,330,111,492
+705,137,43,,,92,25,127,127,265,112,
+706,126,39,"Japanese Tea Garden (Hagiwara Tea Garden Drive, Golden Gate Park)","The Japanese Hagiwara family invented ""Chinese"" fortune cookies in the tea-garden",4,3,117,24,223,102,487
+707,126,39,Fior d' Italia (601 Union Street at Stockton),,4,3,117,24,223,102,487
+708,126,39,"Fairmont Hotel (950 Mason Street, Nob Hill)","In 1945 the Fairmont hosted the United Nations Conference on International Organization as delegates arrived to draft a charter for the organization. The U.S. Secretary of State, Edward Stettinius drafted the charter in the hotel's Garden Room.",4,3,117,24,223,102,487
+709,126,39,Washington Square (North Beach),"Washington Square Park is not actually a square, as it has 5 sides. North Beach is not a beach.",4,3,117,24,223,102,487
+710,126,39,War Memorial Opera House (401 Van Ness Avenue),In 1945 the United Nations had its first conference at The War Memorial Opera House.,4,3,117,24,223,102,487
+711,126,39,Sheraton Palace Hotel (639 Market Street),"The hotel was destroyed in the 1906 earthquake and fire, had to be rebuilt, and was reopened in 1909. ",4,3,117,24,223,102,487
+712,126,39,Palace of Fine Arts,"The original Palace was built for the 1915 Panama-Pacific Exposition, and completely destroyed in 1964. It was rebuilt in 1965.",4,3,117,24,223,102,487
+713,138,9,Golden Gate Bridge,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",93,4,128,24,331,113,446
+714,138,9,City Hall,"The dome of SF's City Hall is almost a foot taller than that of the US Capitol Building. In 1954, Joe DiMaggio and Marilyn Monroe married at the Beaux Arts-style building.",93,4,128,24,331,113,446
+715,139,43,,,94,62,129,128,252,114,
+716,140,46,Hang Ah Alley (Chinatown),,95,63,46,129,332,115,493
+717,140,46,Horace Mann School (3351 23rd Street),,95,63,46,129,332,115,493
+718,140,46,901 Union Street,,95,63,46,129,332,115,493
+719,140,46,610 Rhode Island Street (Potrero Hill),,95,63,46,129,332,115,493
+720,140,46,375 Laguna Honda Blvd.,,95,63,46,129,332,115,493
+721,140,46,180 Manchester Street,,95,63,46,129,332,115,493
+722,141,38,,,96,64,130,130,333,116,
+723,142,48,2552 Hyde Street,,67,41,84,131,334,117,494
+724,142,48,United Nations Plaza (Civic Center),United Nations Plaza was built in 1975 and across its walkways are white lines into which the preamble to the preamble of the UN charter is carved.,67,41,84,131,334,117,494
+725,142,48,"Postcard Row (Alamo Square, Hayes Valley)",The 6 Victorian homes across from Alamo Square Park are among the few Victorians to survive the Great Fire.,67,41,84,131,334,117,494
+726,142,48,Hyatt Fisherman's Wharf (555 Northpoint Street),,67,41,84,131,334,117,494
+727,142,48,"Fairmont Hotel (950 Mason Street, Nob Hill)",,67,41,84,131,334,117,494
+728,142,48,Chinatown Gate,"Designed in 1970, the Chinatown Gate (aka the Dragon Gate) is based on ceremonial gates found in Chinese villages. ",67,41,84,131,334,117,494
+729,142,48,722 Steiner Street,,67,41,84,131,334,117,494
+730,143,2,,,84,59,131,132,335,118,
+731,144,25,Ferry Building,"Every hour and half-hour, the clock bell atop the Ferry Building chimes portions of the Westminster Quarters.",97,65,132,133,336,119,
+732,145,28,Market Street Between Noe and Sanchez,,98,66,133,134,337,120,
+733,146,27,Green & Laguna Streets,,99,67,134,135,338,121,495
+734,146,27,California & Hyde Streets,,99,67,134,135,338,121,495
+735,146,27,City Hall,,99,67,134,135,338,121,495
+736,147,25,Lusty Lady Bar (North Beach),,100,68,135,136,,,
+737,148,11,222 Mason St. ,,101,57,136,137,339,122,496
+738,148,11,Golden Gate Bridge,,101,57,136,137,339,122,496
+739,148,11,Presidio Church at 130 Fisher Loop,,101,57,136,137,339,122,496
+740,148,11,"Tiburon Hiking Trail, Tiburon, CA",,101,57,136,137,339,122,496
+741,148,11,Fort Funston,,101,57,136,137,339,122,496
+742,148,11,Folsom Street Fair on Folsom St.,,101,57,136,137,339,122,496
+743,148,11,Orphan Andy's,,101,57,136,137,339,122,496
+744,148,11,The Stud,,101,57,136,137,339,122,496
+745,148,11,Mr. S Leather,,101,57,136,137,339,122,496
+746,148,11,2866 24th St.,,101,57,136,137,339,122,496
+747,148,11,24th and Church St. ,,101,57,136,137,339,122,496
+748,148,11,Church and Duboce Muni Station,,101,57,136,137,339,122,496
+749,148,11,St. Francis Fountain,,101,57,136,137,339,122,496
+750,148,11,Muni line N- Judah,,101,57,136,137,339,122,496
+751,148,11,Sutro Baths  ,,101,57,136,137,339,122,496
+752,148,11,Golden Gate Park,,101,57,136,137,339,122,496
+753,148,11,Market & Church St.,,101,57,136,137,339,122,496
+754,148,11,Willy's Barber Shop,,101,57,136,137,339,122,496
+755,148,11,Jawbone at 99 Rhode Island St. ,,101,57,136,137,339,122,496
+756,148,11,Urban Flowers,,101,57,136,137,339,122,496
+757,148,11,770 Haight St,,101,57,136,137,339,122,496
+758,148,11,Eros,,101,57,136,137,339,122,496
+759,148,11,Doc's Clock,,101,57,136,137,339,122,496
+760,148,11,Starbucks at 333 O'Farrell St.,,101,57,136,137,339,122,496
+761,148,11,Union Square,,101,57,136,137,339,122,496
+762,148,11,The Café at 2369 Market St.,,101,57,136,137,339,122,496
+763,148,11,Castro St. from Market to 18th St.,,101,57,136,137,339,122,496
+764,148,11,Bay Bridge,,101,57,136,137,339,122,496
+765,148,11,Treasure Island,,101,57,136,137,339,122,496
+766,148,11,The Fairmont,,101,57,136,137,339,122,496
+767,148,11,1890 Clay St.,,101,57,136,137,339,122,496
+768,148,11,2000 Folsom,,101,57,136,137,339,122,496
+769,148,11,Mission Arts Center,,101,57,136,137,339,122,496
+770,148,11,2413 Harrison St.,,101,57,136,137,339,122,496
+771,148,11,Muddy Waters Coffee House,,101,57,136,137,339,122,496
+772,148,11,Valencia St. from 16th to 17th,,101,57,136,137,339,122,496
+773,148,11,601 Buena Vista West,,101,57,136,137,339,122,496
+774,148,11,Dolores Park,,101,57,136,137,339,122,496
+775,148,11,Casa Lucas Market at 2934 24th St,,101,57,136,137,339,122,496
+776,148,11,Punjab,,101,57,136,137,339,122,496
+777,148,11,BART from Civic Center to 24th St.,,101,57,136,137,339,122,496
+778,149,30,"Capital Restaurant, 839 Clay Street","Russell Tovey originally auditioned for the role of Patrick, but was unsuccessful. After the show got picked up, the character of Kevin was written with him in mind.",101,18,136,137,339,123,496
+779,149,30,1080 Natoma Street,,101,18,136,137,339,123,496
+780,149,30,1246 Folsom Street,,101,18,136,137,339,123,496
+781,149,30,"Li Po Lounge, 916 Grant Avenue",Li Po Cocktail Lounge was one of the Top 10 Dive Bars in San Francisco in 2011 by SF Weekly,101,18,136,137,339,123,496
+782,149,30,"Encore Karaoke, 1550 California Street",,101,18,136,137,339,123,496
+783,149,30,San Francisco City Hall,,101,18,136,137,339,123,496
+784,149,30,"The Stud, 399 9th Street",,101,18,136,137,339,123,496
+785,149,30,Van Ness and Market Street MUNI exit,"The character of Doris was originally a recurring role, but everyone on the team liked Lauren Weedman's performance so much that she became a full time regular during the second season.",101,18,136,137,339,123,496
+786,149,30,10th Street between Market & Mission ,,101,18,136,137,339,123,496
+787,149,30,"Philz Coffee, 1258 Minnesota Street",,101,18,136,137,339,123,496
+788,149,30,Grant Avenue between Sacramento and Washington,,101,18,136,137,339,123,496
+789,149,30,"The End Up, 401 6th Streeet",,101,18,136,137,339,123,496
+790,149,30,"Orphan Andy's, 3991 17th Street",,101,18,136,137,339,123,496
+791,149,30,Castro Street between 17th & 18th,,101,18,136,137,339,123,496
+792,149,30,17th & Market Street,,101,18,136,137,339,123,496
+793,149,30,Point Lobos Avenue,,101,18,136,137,339,123,496
+794,149,30,Bernal Heights Neighborhood,"Jake Shears, lead singer of the band Scissor Sisters, auditioned for the role of Dom.",101,18,136,137,339,123,496
+795,149,30,3079 16th Street,,101,18,136,137,339,123,496
+796,149,30,Fisherman's Wharf,,101,18,136,137,339,123,496
+797,150,10,901 Valencia Street,,101,18,136,137,339,123,496
+798,150,10,314 11th Street,,101,18,136,137,339,123,496
+799,150,10,1246 Folsom Street,,101,18,136,137,339,123,496
+800,150,10,Eddy @ Polk Street,,101,18,136,137,339,123,496
+801,150,10,Church @ Duboce Street,,101,18,136,137,339,123,496
+802,150,10,100 Church Street,"Jake Shears, lead singer of the band Scissor Sisters, auditioned for the role of Dom.",101,18,136,137,339,123,496
+803,150,10,770 Haight Street,"This home was also used in MILK, Big Sur and Diary of a Teenage Girl",101,18,136,137,339,123,496
+804,150,10,651 Brannan Street,,101,18,136,137,339,123,496
+805,150,10,1400 16th Street,,101,18,136,137,339,123,496
+806,150,10,601 Buena Vista Ave West,,101,18,136,137,339,123,496
+807,151,10,"Balboa pool Lot, San Jose Avenue & Havelock St",,101,18,136,137,339,123,496
+808,151,10,"Willy's Barber shop, 3227 22nd Street",,101,18,136,137,339,123,496
+809,151,10,"Mad Dog Bar, 530 Haight Street","The character of Doris was originally a recurring role, but everyone on the team liked Lauren Weedman's performance so much that she became a full time regular during the second season.",101,18,136,137,339,123,496
+810,151,10,770 Haight Street,,101,18,136,137,339,123,496
+811,151,10,Kezar Pavillion,,101,18,136,137,339,123,496
+812,151,10,"Boxer Stadium, 166 Havelock Street",,101,18,136,137,339,123,496
+813,151,10,"Mission Rec Center, 2450 Harrison Street",,101,18,136,137,339,123,496
+814,151,10,"Doc's Clock, 2575 Misison Street",,101,18,136,137,339,123,496
+815,152,10,"Esta Noche, 3079 16th Street",,101,18,136,137,339,123,496
+816,152,10,1890 Clay Street,,101,18,136,137,339,123,496
+817,152,10,"Larken Street Youth Services, 1138 Sutter Street",,101,18,136,137,339,123,496
+818,152,10,"Daniel's Pharmacy, 943 Geneva Ave.",,101,18,136,137,339,123,496
+819,152,10,Castro Street @ 18th street,,101,18,136,137,339,123,496
+820,152,10,601 Buena Vista Ave West,,101,18,136,137,339,123,496
+821,152,10,"Urban Flowers, 4029 18th Street",,101,18,136,137,339,123,496
+822,152,10,3650 21st Street,,101,18,136,137,339,123,496
+823,152,10,"Bi-Rite Creamery, 3692 18th Stret",,101,18,136,137,339,123,496
+824,152,10,"Dolores Park, San Francisco","Russell Tovey originally auditioned for the role of Patrick, but was unsuccessful. After the show got picked up, the character of Kevin was written with him in mind.",101,18,136,137,339,123,496
+825,152,10,970 Geary Street,,101,18,136,137,339,123,496
+826,152,10,534 Hyde Street,,101,18,136,137,339,123,496
+827,153,10,534 Hyde Street,,101,18,136,137,339,123,496
+828,153,10,24th Between Portrero & Alabama,,101,18,136,137,339,123,496
+829,153,10,745 Treat Ave,,101,18,136,137,339,123,496
+830,153,10,"Always Open Car Wash, 2560 Marin Street",,101,18,136,137,339,123,496
+831,153,10,160 Church Street,,101,18,136,137,339,123,496
+832,153,10,1119 Alabama Street,,101,18,136,137,339,123,496
+833,154,10,745 Treat Ave.,,101,18,136,137,339,123,496
+834,154,10,1890 Clay Street,,101,18,136,137,339,123,496
+835,154,10,770 Haight Street,,101,18,136,137,339,123,496
+836,155,10,770 Haight Street,,101,18,136,137,339,123,496
+837,155,10,Delores Park,,101,18,136,137,339,123,496
+838,155,10,"Valenti, Marini, Perata, 4840 Mission Street",,101,18,136,137,339,123,496
+839,155,10,"Sparky's Diner, 242 Church Street",,101,18,136,137,339,123,496
+840,156,10,2450 Harrison Street,,101,18,136,137,339,123,496
+841,156,10,1246 Folsom Street,,101,18,136,137,339,123,496
+842,156,10,"Citizens Band, 1198 Folsom Street",,101,18,136,137,339,123,496
+843,156,10,1111 California Street,,101,18,136,137,339,123,496
+844,156,10,950 Mason Street,,101,18,136,137,339,123,496
+845,157,10,"SF Zoo, 2945 Sloat Blvd",,101,18,136,137,339,123,496
+846,157,10,1246 Folsom Street,,101,18,136,137,339,123,496
+847,157,10,68 Division Street,,101,18,136,137,339,123,496
+848,157,10,8 Octavia Street,,101,18,136,137,339,123,496
+849,157,10,1890 Clay Street,,101,18,136,137,339,123,496
+850,157,10,"Tonga Room, Fairmont Hotel, 950 Mason Street",,101,18,136,137,339,123,496
+851,157,10,"Muddy Waters, 521 Valencia Street",,101,18,136,137,339,123,496
+852,157,10,"Mission Arts Center, 2450 Harrison Street",,101,18,136,137,339,123,496
+853,158,10,8 Octavia Street,,101,18,136,137,339,123,496
+854,158,10,BART Station @ 16th Street & Mission Streets,,101,18,136,137,339,123,496
+855,158,10,67 Deming Street,,101,18,136,137,339,123,496
+856,158,10,Twin Peaks Park,,101,18,136,137,339,123,496
+857,158,10,"Vega Coffee, 1245 Folsom Street",,101,18,136,137,339,123,496
+858,158,10,SF City Hall Polk Street Steps,,101,18,136,137,339,123,496
+859,158,10,Mission Street @ 22nd Street,,101,18,136,137,339,123,496
+860,158,10,"Willy's Barber shop, 3227 22nd Street",,101,18,136,137,339,123,496
+861,158,10,"Mission Rec Center, 2450 Harrison Street",,101,18,136,137,339,123,496
+862,159,11,The Marsh Theatre (1062 Valencia Street),,102,,137,138,340,,
+863,159,11,20 Hill Street,,102,,137,138,340,,
+864,159,11,198 Gough Street,,102,,137,138,340,,
+865,160,16,Cost Plus World Market (2552 Taylor Street),,59,6,138,139,295,124,497
+866,160,16,Vermont Street between 20th and 22nd Streets,,59,6,138,139,295,124,497
+867,160,16,San Francisco International Airport,SFO has a museum dedicated to aviation history. ,59,6,138,139,295,124,497
+868,160,16,San Francisco Drydock (20th and Illinois Streets),,59,6,138,139,295,124,497
+869,160,16,"Pacific Heights Towers (2200 Sacramento Street, Pacific Heights)",,59,6,138,139,295,124,497
+870,160,16,"Lefty O' Doul Drawbridge/ 3rd Street Bridge (3rd Street, China Basin)","This is SF's only drawbridge, and was named after Francis Joseph ""Lefty"" O'Doul, a local baseball hero.",59,6,138,139,295,124,497
+871,160,16,Hall of Justice (850 Bryant Street),,59,6,138,139,295,124,497
+872,160,16,Golden Gate Bridge,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",59,6,138,139,295,124,497
+873,160,16,"Fairmont Hotel (950 Mason Street, Nob Hill)","In 1945 the Fairmont hosted the United Nations Conference on International Organization as delegates arrived to draft a charter for the organization. The U.S. Secretary of State, Edward Stettinius drafted the charter in the hotel's Garden Room.",59,6,138,139,295,124,497
+874,160,16,Embarcadero Freeway,demolished,59,6,138,139,295,124,497
+875,160,16,City Hall,"The dome of SF's City Hall is almost a foot taller than that of the US Capitol Building. In 1954, Joe DiMaggio and Marilyn Monroe married at the Beaux Arts-style building.",59,6,138,139,295,124,497
+876,160,16,Broadway Tunnel (Russian Hill),,59,6,138,139,295,124,497
+877,160,16,280 Freeway at Pennsylvania and Mariposa Streets,,59,6,138,139,295,124,497
+878,160,16,2190 Washington Street (Pacific Heights),,59,6,138,139,295,124,497
+879,160,16,18th Street Overpass (Potrero Hill),,59,6,138,139,295,124,497
+880,161,51,"On Board the SS President Cleveland, docked at Pier 50",,15,41,81,140,116,107,498
+881,162,9,"Asian Art Museum (200 Larkin Street, Civic Center)",The Dalai Lama opened an exhibition on Wisdom and Compassion at the museum in 1991.,103,56,139,141,331,125,318
+882,162,9,Grace Cathedral Episcopal Church (1100 California Street),Grace Cathedral Episcopal Church is the West Coast's largest Episcopalian cathedral.,103,56,139,141,331,125,318
+883,162,9,"722 Steiner Street (Postcard Row, Alamo Square, Hayes Valley)",The 6 Victorian homes across from Alamo Square Park are among the few Victorians to survive the Great Fire.,103,56,139,141,331,125,318
+884,163,22,St. Elizabeth Apartment House (901 Powell Street at Sacramento),,38,6,33,142,79,126,499
+885,164,8,Bush Street at Jones,,104,25,140,143,3,,
+886,165,58,"Fairmont Hotel (950 Mason Street, Nob Hill)","In 1945 the Fairmont hosted the United Nations Conference on International Organization as delegates arrived to draft a charter for the organization. The U.S. Secretary of State, Edward Stettinius drafted the charter in the hotel's Garden Room.",105,41,141,144,341,127,500
+887,166,59,Duboce Park,,106,17,142,145,40,128,
+888,166,59,City Hall,"The dome of SF's City Hall is almost a foot taller than that of the US Capitol Building. In 1954, Joe DiMaggio and Marilyn Monroe married at the Beaux Arts-style building.",106,17,142,145,40,128,
+889,166,59,Chinatown,"First established in the mid-19th Century, SF's Chinatown is the oldest and largest Chinatown in the US.",106,17,142,145,40,128,
+890,166,59,424 Sansome Street,,106,17,142,145,40,128,
+891,166,59,29th and Dolores Street,,106,17,142,145,40,128,
+892,166,59,El Camino Del Mar,,106,17,142,145,40,128,
+893,166,59,Treasure Island,"An artificial island, Treasure Island was created for the 1939 Golden Gate International Exposition, and is named after the novel by Robert Louis Stevenson, a one-time San Francisco resident.",106,17,142,145,40,128,
+894,166,59,Market & Castro Street,"From 1910-1920 the Castro was called ""Little Scandinavia"" because of its high concentration of residents of Scandinavian ancestry.",106,17,142,145,40,128,
+895,166,59,Marine Fireman's Union Headquarters,,106,17,142,145,40,128,
+896,166,59,Lower Haight Street,,106,17,142,145,40,128,
+897,74,30,1069 Tennessee Street,,56,43,68,67,291,56,467
+898,166,59,Grace Cathedral Episcopal Church (1100 California Street),Grace Cathedral Episcopal Church is the West Coast's largest Episcopalian cathedral.,106,17,142,145,40,128,
+899,166,59,Golden Gate Bridge,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",106,17,142,145,40,128,
+900,167,33,"The 500 Club (500 Guerrero Street, Mission District)",,,,143,146,342,,
+901,167,33,Mission Dolores Park (Mission District),"The two land plots that comprise the Park were used as a Jewish cemetery until 1894 when San Francisco prohibited all burials within city limits. The graves were moved to Colma, CA.",,,143,146,342,,
+902,168,38,,,107,4,144,147,150,129,
+903,169,43,Golden Gate Bridge,"With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",4,3,145,148,343,130,
+904,169,43,"Fairmont Hotel (950 Mason Street, Nob Hill)","In 1945 the Fairmont hosted the United Nations Conference on International Organization as delegates arrived to draft a charter for the organization. The U.S. Secretary of State, Edward Stettinius drafted the charter in the hotel's Garden Room.",4,3,145,148,343,130,
+905,170,46,1200 Washington Street at Taylor Street,,13,12,31,149,265,100,501
+906,170,46,Hancock School (940 Filbert Street),,13,12,31,149,265,100,501
+907,170,46,Danilo's Bakery (Green Street & Bannam Place),,13,12,31,149,265,100,501
+908,170,46,Chrissy Field,Chrissy Field was originally an airfield for the Presidio Army Base. ,13,12,31,149,265,100,501
+909,170,46,520-522A Green Street at Grant Street,,13,12,31,149,265,100,501
+910,170,46,516 Green Street,,13,12,31,149,265,100,501
+911,170,46,100 Embarcadero Street,,13,12,31,149,265,100,501
+912,171,11,1821 Alabama Street,,108,69,146,150,103,131,502
+913,171,11,Hall of Justice (850 Bryant Street),,108,69,146,150,103,131,502
+914,171,11,Cameron House (920 Sacramento Street),,108,69,146,150,103,131,502
+915,171,11,504 Broadway,,108,69,146,150,103,131,502
+916,171,11,9 Calhoun Terrace,,108,69,146,150,103,131,502
+917,171,11,AT&T Park,,108,69,146,150,103,131,502
+918,171,11,Berry Street between 3rd and 4th Streets,,108,69,146,150,103,131,502
+919,171,11,Kearny Street between Broadway and Pacific Avenue,,108,69,146,150,103,131,502
+920,171,11,731 Grant Avenue,,108,69,146,150,103,131,502
+921,171,11,Waverly Alley between Grant and Sacramento Streets,,108,69,146,150,103,131,502
+922,171,11,Joice Street at Clay Street,,108,69,146,150,103,131,502
+923,171,11,Palace of Fine Arts (3301 Lyon Street),,108,69,146,150,103,131,502
+924,171,11,800 Bay Street,,108,69,146,150,103,131,502
+925,171,11,1201 Columbus Avenue,,108,69,146,150,103,131,502
+926,171,11,Pier 45,The famous Musee Mecanique is located on Pier 45,108,69,146,150,103,131,502
+927,171,11,369 Embarcadero,,108,69,146,150,103,131,502
+928,171,11,Dolores Park,,108,69,146,150,103,131,502
+929,171,11,24th Street between Folsom and Harrison Streets,,108,69,146,150,103,131,502
+930,171,11,13 Lucky Street,,108,69,146,150,103,131,502
+931,171,11,1541 Grove Street,,108,69,146,150,103,131,502
+932,171,11,Ida B. Wells High School (1099 Hayes Street),"Ida B. Wells High School is named after the African-American journalist, suffragist and early leader in the Civil Rights Movement Ida B. Wells",108,69,146,150,103,131,502
+933,171,11,Alamo Square Park,,108,69,146,150,103,131,502
+934,171,11,50 California Street,,108,69,146,150,103,131,502
+935,171,11,373 Columbus Avenue,,108,69,146,150,103,131,502
+936,171,11,350 Union Street,,108,69,146,150,103,131,502
+937,172,10,Potrero Hill Recreation Center (801 Arkansas Street),,108,69,146,150,103,131,502
+938,172,10,1243 19th Street,,108,69,146,150,103,131,502
+939,172,10,372/374 Pennsylvania Avenue ,,108,69,146,150,103,131,502
+940,172,10,Stevenson Alley,,108,69,146,150,103,131,502
+941,172,10,901 Missouri Street,,108,69,146,150,103,131,502
+942,172,10,83 Watchman Way,,108,69,146,150,103,131,502
+943,172,10,1059 Texas Street,,108,69,146,150,103,131,502
+944,172,10,Sue Bierman Park,,108,69,146,150,103,131,502
+945,172,10,Embarcadero Street at Washington Street,,108,69,146,150,103,131,502
+946,172,10,Treasure Island,,108,69,146,150,103,131,502
+947,172,10,Pier 50,,108,69,146,150,103,131,502
+948,172,10,435 Broadway,,108,69,146,150,103,131,502
+949,172,10,Columbus Avenue between Washington and Bay Streets,,108,69,146,150,103,131,502
+950,172,10,Grant Avenue between Clay and Washington Streets,,108,69,146,150,103,131,502
+951,172,10,1400 16th Street,,108,69,146,150,103,131,502
+952,172,10,Pennsylvania Avenue at 19th Street,,108,69,146,150,103,131,502
+953,172,10,Harriet Street between Bryant and Brannan Streets,,108,69,146,150,103,131,502
+954,172,10,Boardman Place between Bryant and Brannan Streets,,108,69,146,150,103,131,502
+955,173,30,Golden Gate Park,,108,69,146,150,103,131,502
+956,173,30,Civic Center Plaza,,108,69,146,150,103,131,502
+957,173,30,500 Grove Street,,108,69,146,150,103,131,502
+958,173,30,600 Octavia Street,,108,69,146,150,103,131,502
+959,173,30,535 Octavia Street,,108,69,146,150,103,131,502
+960,173,30,Patricia's Green,,108,69,146,150,103,131,502
+961,173,30,Ivy Street between Laguna and Gough Streets,,108,69,146,150,103,131,502
+962,173,30,Linden Alley between Octavia and Gough Streets,,108,69,146,150,103,131,502
+963,173,30,Hall of Justice (850 Bryant Street),,108,69,146,150,103,131,502
+964,173,30,Harriet Alley,,108,69,146,150,103,131,502
+965,173,30,Howard Street at Steuart Street,,108,69,146,150,103,131,502
+966,173,30,Red's Java House (Pier 30),,108,69,146,150,103,131,502
+967,173,30,887 De Haro Street,,108,69,146,150,103,131,502
+968,173,30,Pier 96,,108,69,146,150,103,131,502
+969,173,30,2633 Vallejo Street,,108,69,146,150,103,131,502
+970,174,11,Embarcadero from Broadway to Folsom,,109,8,147,151,344,132,503
+971,174,11,California St from Taylor to Powell,,109,8,147,151,344,132,503
+972,174,11,Mason St from Pine to Sacramento,,109,8,147,151,344,132,503
+973,174,11,Powell St. from Geary to Sacramento,,109,8,147,151,344,132,503
+974,175,33,"Postcard Row (Alamo Square, Hayes Valley)",The 6 Victorian homes across from Alamo Square Park are among the few Victorians to survive the Great Fire.,110,,148,152,345,,
+975,176,2,,,111,70,149,153,346,133,
+976,177,48,,,112,47,132,133,347,134,
+977,178,39,The Malloch Apartment Building (1360 Montgomery Street),,29,13,31,154,348,135,265
+978,178,39,Wasteland Store (1600 Haight Street),,29,13,31,154,348,135,265
+979,178,39,Star's Café (55 Golden Gate Avenue at Van Ness),,29,13,31,154,348,135,265
+980,178,39,"St. Peter & Paul's Church (666 Filbert Street, Washington Square)","Though Marilyn Monroe and Joe DiMaggio were not allowed to be married at the Church (DiMaggio had married his first wife at the Church but was divorced), the couple returned to the steps of the Church for photos, following their City Hall nuptials.",29,13,31,154,348,135,265
+981,178,39,"San Francisco General Hospital Medical Center (1001 Potrero Avenue, Potrero Hill)",SF General Hospital is the only Level I Trauma Center serving San Francisco and northern San Mateo County. ,29,13,31,154,348,135,265
+982,178,39,Pierce Street between Pacific & Green Streets,,29,13,31,154,348,135,265
+983,178,39,Montgomery & Vallejo Streets,,29,13,31,154,348,135,265
+984,178,39,Marathon Plaza (303 2nd Street),,29,13,31,154,348,135,265
+985,178,39,Jones Street at Bush,,29,13,31,154,348,135,265
+986,178,39,Jack Kerouac Alley between Columbus & Grant Streets,,29,13,31,154,348,135,265
+987,178,39,Chrissy Field,Chrissy Field was originally an airfield for the Presidio Army Base. ,29,13,31,154,348,135,265
+988,178,39,Belli Building (722 Montgomery Street at Washington),,29,13,31,154,348,135,265
+989,178,39,Alamo Square,,29,13,31,154,348,135,265
+990,178,39,60 Spear Street,,29,13,31,154,348,135,265
+991,178,39,"101 Henry Adams Place, 4th Floor",,29,13,31,154,348,135,265
+992,179,34,Albert S. Samuels Clock (856 Market Street between Powell and Stockton),,13,12,90,91,349,136,504
+993,180,41,Belgravia Apartments (795 Sutter Street at Jones),,38,6,150,155,350,137,465
+994,181,60,,,113,19,103,156,351,138,362
+995,182,13,Bay Bridge,,114,71,151,157,352,139,
+996,182,13,Sacramento & Montgomery Streets,,114,71,151,157,352,139,
+997,182,13,2017 23rd Street,,114,71,151,157,352,139,
+998,182,13,Filbert & Leavenworth Streets,,114,71,151,157,352,139,
+999,183,17,Texas & 19th Streets (Potrero Hill),,115,12,152,158,353,140,
+1000,183,17,Financial District,,115,12,152,158,353,140,
