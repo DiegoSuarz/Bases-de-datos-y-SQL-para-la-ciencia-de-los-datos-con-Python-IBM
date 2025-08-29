@@ -337,4 +337,18 @@ Consulta C3: Ingresa una función que muestre el número de rescates en el día 
 
 SELECT SUM(QUANTITY)
 FROM PETRESCUE
-WHERE DAY(RESCUEDATE) = '14'
+WHERE DAY(RESCUEDATE) = '14';
+
+/*
+Consulta C4: Los animales rescatados deben ver al veterinario dentro de tres días después de su llegada. Ingresa una función que muestre el tercer día de cada rescate.
+*/
+
+SELECT DATE_ADD(RESCUEDATE, INVERVAL 3 DAY) 
+FROM PETRESCUE;
+
+/*
+Consulta C5: Ingresa una función que muestre el tiempo que los animales han estado rescatados; la diferencia entre la fecha de hoy y la fecha de rescate.
+*/
+
+SELECT DATE_SUB(CURRENT_DATE, RESCUEDATE)
+FROM PETRESCUE;
