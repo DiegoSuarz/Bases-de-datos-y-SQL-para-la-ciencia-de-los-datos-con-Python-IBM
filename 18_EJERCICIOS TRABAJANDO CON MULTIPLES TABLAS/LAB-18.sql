@@ -41,6 +41,14 @@ Después de completar este laboratorio, podrás:
 
 /*markdown
 ## Ejercicio 1: Accediendo a Múltiples Tablas con Subconsultas
+Acceder a la base de datos HR:
+
+*/
+
+USE HR;
+SHOW TABLES;
+
+/*markdown
 1. Problema:
 
 > Recuperar solo los registros de EMPLEADOS que correspondan a trabajos en la tabla JOBS.
@@ -60,12 +68,20 @@ Después de completar este laboratorio, podrás:
 </details>
 */
 
+SELECT * 
+FROM EMPLOYEES
+WHERE JOB_ID IN (
+                SELECT JOB_IDENT
+                FROM JOBS
+                );
+
 /*markdown
 2. Problema:
 
 > Recuperar solo la lista de empleados cuyo JOB_TITLE es Jr. Designer.
 
 Solución
+
 <details><summary>Solución </summary>
 
 ```sql
@@ -81,10 +97,18 @@ Solución
 </details>
 */
 
+SELECT * FROM EMPLOYEES
+WHERE JOB_ID IN (
+                SELECT JOB_IDENT
+                FROM JOBS
+                WHERE JOB_TITLE = 'Jr. Designer'
+                );
+
 /*markdown
 3. Problema:
 
 > Recuperar información de JOB y quienes ganan más de $70,000.
+
 
 <details><summary>Solución </summary>
 
@@ -100,6 +124,14 @@ Solución
 ![alt text](image-3.png)
 </details>
 */
+
+SELECT JOB_TITLE, MIN_SALARY, MAX_SALARY
+FROM JOBS
+WHERE JOB_IDENT IN (
+                    SELECT JOB_ID 
+                    FROM EMPLOYEES
+                    WHERE SALARY > 70000
+                    );
 
 /*markdown
 4. Problema:
@@ -120,6 +152,15 @@ Solución
 ![alt text](image-4.png)
 </details>
 */
+
+SELECT JOB_TITLE, MIN_SALARY, MAX_SALARY
+FROM JOBS
+WHERE JOB_IDENT IN (
+                    SELECT JOB_ID
+                    FROM EMPLOYEES 
+                    WHERE YEAR(B_DATE) > 1976
+                    )
+ORDER BY 2 DESC
 
 /*markdown
 5. Problema:
@@ -142,6 +183,14 @@ Solución
 </details>
 */
 
+SELECT JOB_IDENT, JOB_TITLE, MAX_SALARY, MIN_SALARY
+FROM JOBS
+WHERE JOB_IDENT IN (
+                    SELECT JOB_ID
+                    FROM EMPLOYEES
+                    WHERE YEAR(B_DATE) > 1976 AND SEX = 'F'
+                    );
+
 /*markdown
 ## Ejercicio 2: Accediendo a Múltiples Tablas con Joins Implícitos
 
@@ -161,6 +210,9 @@ Solución
 ![alt text](image-6.png)
 </details>
 */
+
+SELECT *
+FROM EMPLOYEES, JOBS
 
 /*markdown
 2. Problema:
@@ -183,6 +235,10 @@ Solución
 </details>
 */
 
+SELECT *
+FROM EMPLOYEES, JOBS
+WHERE EMPLOYEES.JOB_ID = JOBS.JOB_IDENT;
+
 /*markdown
 3. Problema:
 
@@ -203,6 +259,10 @@ Solución
 ![alt text](image-8.png)
 </details>
 */
+
+SELECT *
+FROM EMPLOYEES E, JOBS J
+WHERE E.JOB_ID = J.JOB_IDENT;
 
 /*markdown
 4. Problema:
@@ -225,6 +285,10 @@ Solución
 </details>
 */
 
+SELECT EMP_ID, F_NAME, L_NAME, JOB_TITLE
+FROM EMPLOYEES , JOBS 
+WHERE JOB_ID = JOB_IDENT;
+
 /*markdown
 5. Problema:
 
@@ -245,6 +309,10 @@ Solución
 ![alt text](image-10.png)
 </details>
 */
+
+SELECT E.EMP_ID, E.F_NAME, L_NAME, J.JOB_TITLE
+FROM EMPLOYEES E, JOBS J
+WHERE E.JOB_ID = J.JOB_IDENT;
 
 /*markdown
 ## Script de Solución

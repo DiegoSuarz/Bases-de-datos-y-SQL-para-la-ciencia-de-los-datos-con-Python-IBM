@@ -200,6 +200,7 @@ WHERE JOB_ID IN (
                 );
 
 /*markdown
+
 b. Usando Uniones Implícitas
 
 <details><summary>Solución </summary>
