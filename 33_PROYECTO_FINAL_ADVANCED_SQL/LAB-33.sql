@@ -1,6 +1,13 @@
 /*markdown
+
+*/
+
+/*markdown
 https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstREIwMjAxRU4tU2tpbGxzTmV0d29yay9sYWJzL0JvbnVzTW9kdWxlX0NvdXJzZXJhX3Y1L0ZpbmFsUHJvamVjdF9Cb251c01vZHVsZS5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYXRsYXNfZmlsZV9pZCI6MjQ0NzMsImFkbWluIjpmYWxzZSwiaWF0IjoxNzMzOTgwMDMyfQ.BA2ZbaMGf13pAGr4FiuvQIw69gqVdA5rnEtk6GQHcLM
 
+#
+#
+#
 # Proyecto Final: Técnicas Avanzadas de SQL
 
 ## Objetivos
@@ -65,85 +72,324 @@ Se le ha pedido que produzca algunos informes sobre las comunidades y los delito
 
 ## Pregunta 1
 - Escribe y ejecuta una consulta SQL para listar los nombres de las escuelas, los nombres de las comunidades y la asistencia promedio para comunidades con un índice de dificultad de 98.
-Sugerencia 1
+
+<details><summary> Sugerencia 1</summary>
+    Usa las tablas CHICAGO_PUBLIC_SCHOOLS y CENSUS_DATA
+</details>
+
 Usa las tablas CHICAGO_PUBLIC_SCHOOLS y CENSUS_DATA
-Sugerencia 2
-Usa un left join
-Toma una captura de pantalla que muestre la consulta SQL y sus resultados.
 
-Pregunta 2
-Escribe y ejecuta una consulta SQL para listar todos los crímenes que ocurrieron en una escuela. Incluye el número de caso, el tipo de crimen y el nombre de la comunidad.
-Sugerencia 1
-Sugerencia 2
-Sugerencia 3
-Toma una captura de pantalla mostrando la consulta SQL y sus resultados.
+<details><summary> Sugerencia 2</summary>
+    Usa un left join
+</details>
 
-Ejercicio 2: Creando una Vista
+**Toma una captura de pantalla que muestre la consulta SQL y sus resultados.**
+
+## Pregunta 2
+
+- Escribe y ejecuta una consulta SQL para listar todos los crímenes que ocurrieron en una escuela. Incluye el número de caso, el tipo de crimen y el nombre de la comunidad.
+
+<details><summary> Sugerencia 1</summary>
+    Usa las tablas CHICAGO_CRIME_DATA y CENSUS_DATA
+</details>
+
+<details><summary> Sugerencia 2</summary>
+    Usa un left join
+</details>
+
+<details><summary> Sugerencia 3</summary>
+   La columna location_description te ayudará a encontrar la ubicación del crimen
+</details>
+
+**Toma una captura de pantalla mostrando la consulta SQL y sus resultados.**
+
+## Ejercicio 2: Creando una Vista
 Por razones de privacidad, se te ha solicitado crear una vista que permita a los usuarios seleccionar solo el nombre de la escuela y los campos de icono de la tabla CHICAGO_PUBLIC_SCHOOLS. Al proporcionar una vista, puedes asegurarte de que los usuarios no puedan ver las puntuaciones reales asignadas a una escuela, solo el icono asociado con su puntuación. Debes definir nuevos nombres para las columnas de la vista para oscurecer el uso de puntuaciones e iconos en la tabla original.
 
-Pregunta 1
-Escriba y ejecute una declaración SQL para crear una vista que muestre las columnas enumeradas en la siguiente tabla, con los nuevos nombres de columna como se muestra en la segunda columna.
-Nombre de columna en CHICAGO_PUBLIC_SCHOOLS	Nombre de columna en la vista
-NAME_OF_SCHOOL	School_Name
-Safety_Icon	Safety_Rating
-Family_Involvement_Icon	Family_Rating
-Environment_Icon	Environment_Rating
-Instruction_Icon	Instruction_Rating
-Leaders_Icon	Leaders_Rating
-Teachers_Icon	Teachers_Rating
-Escriba y ejecute una declaración SQL que devuelva todas las columnas de la vista.
+## Pregunta 1
+- Escriba y ejecute una declaración SQL para crear una vista que muestre las columnas enumeradas en la siguiente tabla, con los nuevos nombres de columna como se muestra en la segunda columna.
 
-Escriba y ejecute una declaración SQL que devuelva solo el nombre de la escuela y la calificación de líderes de la vista.
+-------------------------------------------------------------------------------------
+|Nombre de columna en CHICAGO_PUBLIC_SCHOOLS	    |Nombre de columna en la vista  |
+|---------------------------------------------------|--------------------------------
+|NAME_OF_SCHOOL	                                    |   School_Name                 |                  
+|Safety_Icon	                                    |   Safety_Rating               |
+|Family_Involvement_Icon	                        |   Family_Rating               |
+|Environment_Icon	                                |   Environment_Rating          |
+|Instruction_Icon	                                |   Instruction_Rating          |
+|Leaders_Icon	                                    |   Leaders_Rating              |
+|Teachers_Icon	                                    |   Teachers_Rating             |
 
-Tome una captura de pantalla que muestre la última consulta SQL y sus resultados.
+- Escriba y ejecute una declaración SQL que devuelva todas las columnas de la vista.
 
-Ejercicio 3: Creación de un Procedimiento Almacenado
+- Escriba y ejecute una declaración SQL que devuelva solo el nombre de la escuela y la calificación de líderes de la vista.
+
+**Tome una captura de pantalla que muestre la última consulta SQL y sus resultados.**
+
+## Ejercicio 3: Creación de un Procedimiento Almacenado
 Los campos de icono se calculan en función del valor en el campo de puntuación correspondiente. Debes asegurarte de que cuando se actualice un campo de puntuación, el campo de icono también se actualice. Para hacer esto, escribirás un procedimiento almacenado que recibe el id de la escuela y una puntuación de líderes como parámetros de entrada, calcula la configuración del icono y actualiza los campos de manera apropiada.
 
-Pregunta 1
-Escribe la estructura de una consulta para crear o reemplazar un procedimiento almacenado llamado UPDATE_LEADERS_SCORE que tome un parámetro in_School_ID como un entero y un parámetro in_Leader_Score como un entero. No olvides usar la declaración #SET TERMINATOR para usar el @ como terminador de la declaración CREATE.
-Toma una captura de pantalla mostrando la consulta SQL.
+## Pregunta 1
+- Escribe la estructura de una consulta para crear o reemplazar un procedimiento almacenado llamado UPDATE_LEADERS_SCORE que tome un parámetro in_School_ID como un entero y un parámetro in_Leader_Score como un entero. No olvides usar la declaración #SET TERMINATOR para usar el @ como terminador de la declaración CREATE.
+**Toma una captura de pantalla mostrando la consulta SQL.**
 
-Pregunta 2
-Dentro de tu procedimiento almacenado, escribe una declaración SQL para actualizar el campo Leaders_Score en la tabla CHICAGO_PUBLIC_SCHOOLS para la escuela identificada por in_School_ID al valor en el parámetro in_Leader_Score.
-Toma una captura de pantalla que muestre la consulta SQL.
+## Pregunta 2
+- Dentro de tu procedimiento almacenado, escribe una declaración SQL para actualizar el campo Leaders_Score en la tabla CHICAGO_PUBLIC_SCHOOLS para la escuela identificada por in_School_ID al valor en el parámetro in_Leader_Score.
+**Toma una captura de pantalla que muestre la consulta SQL.**
 
-Pregunta 3
-Dentro de tu procedimiento almacenado, escribe una declaración SQL IF para actualizar el campo Leaders_Icon en la tabla CHICAGO_PUBLIC_SCHOOLS para la escuela identificada por in_School_ID utilizando la siguiente información.
-Límite inferior de puntaje	Límite superior de puntaje	Icono
-80	99	Muy fuerte
-60	79	Fuerte
-40	59	Promedio
-20	39	Débil
-0	19	Muy débil
-Pista 1
-Pista 2
-Toma una captura de pantalla mostrando la consulta SQL.
+## Pregunta 3
+- Dentro de tu procedimiento almacenado, escribe una declaración SQL IF para actualizar el campo Leaders_Icon en la tabla CHICAGO_PUBLIC_SCHOOLS para la escuela identificada por in_School_ID utilizando la siguiente información.
 
-Pregunta 4
-Ejecuta tu código para crear el procedimiento almacenado.
-Toma una captura de pantalla que muestre la consulta SQL y sus resultados.
+-----------------------------------------------------------------------------    
+|Límite inferior de puntaje	    |Límite superior de puntaje	    |Icono      |
+|-------------------------------|-------------------------------|------------
+|80	                            |   99	                        |Muy fuerte |
+|60	                            |   79	                        |Fuerte     |
+|40	                            |   59	                        |Promedio   |
+|20	                            |   39                          |Débil      |
+|0	                            |   19	                        |Muy débil  |
 
-Escribe una consulta para llamar al procedimiento almacenado, pasando un ID de escuela válido y una puntuación de líder de 50, para verificar que el procedimiento funcione como se espera.
-Ejercicio 4: Uso de Transacciones
+
+<details><summary> Sugerencia 1</summary>
+    Recuerda que una vez que se ejecuta una cláusula de la declaración IF, no se realizan más verificaciones y el procesamiento se mueve al código debajo de la declaración IF. 
+</details>
+
+<details><summary> Sugerencia 2</summary>
+
+    Tu declaración IF debería tener una estructura similar a:
+    IF in_Leader_Score > 0 AND in_Leader_Score < 20 THEN
+
+    – actualizar icono para 0-19
+
+    ELSEIF in_Leader_Score < 40 THEN
+
+    – actualizar icono para 20-39
+
+    ELSEIF in_Leader_Score < 60 THEN
+
+    – actualizar icono para 40-59
+
+    ELSEIF in_Leader_Score < 80 THEN
+
+    – actualizar icono para 60-79
+
+    ELSEIF in_Leader_Score < 100 THEN
+
+    – actualizar icono para 80-99
+
+    END IF;
+</details>
+
+**Toma una captura de pantalla mostrando la consulta SQL.**
+
+## Pregunta 4
+- Ejecuta tu código para crear el procedimiento almacenado.
+
+**Toma una captura de pantalla que muestre la consulta SQL y sus resultados.**
+
+- Escribe una consulta para llamar al procedimiento almacenado, pasando un ID de escuela válido y una puntuación de líder de 50, para verificar que el procedimiento funcione como se espera.
+
+## Ejercicio 4: Uso de Transacciones
 Te das cuenta de que si alguien llama a tu código con una puntuación fuera del rango permitido (0-99), entonces la puntuación se actualizará con los datos inválidos y el ícono permanecerá en su valor anterior. Hay varias formas de evitar este problema, una de las cuales es usar una transacción.
 
-Pregunta 1
-Actualiza la definición de tu procedimiento almacenado. Agrega una cláusula ELSE genérica a la declaración IF que revierta el trabajo actual si la puntuación no encaja en ninguna de las categorías anteriores.
-Sugerencia 1
-Toma una captura de pantalla mostrando la consulta SQL.
+## Pregunta 1
+- Actualiza la definición de tu procedimiento almacenado. Agrega una cláusula ELSE genérica a la declaración IF que revierta el trabajo actual si la puntuación no encaja en ninguna de las categorías anteriores.
 
-Pregunta 2
-Actualiza nuevamente la definición de tu procedimiento almacenado. Agrega una instrucción para confirmar la unidad de trabajo actual al final del procedimiento.
-Sugerencia 1
-Toma una captura de pantalla que muestre la consulta SQL.
+<details><summary> Sugerencia 1</summary>
+    Puedes agregar una cláusula ELSE a la declaración IF que solo se ejecutará si ninguna de las condiciones anteriores se ha cumplido.
+</details>
 
-Ejecuta tu código para reemplazar el procedimiento almacenado.
+**Toma una captura de pantalla mostrando la consulta SQL.**
 
-Escribe y ejecuta una consulta para verificar que el procedimiento almacenado actualizado funcione como se espera al usar una puntuación válida de 38.
+## Pregunta 2
+- Actualiza nuevamente la definición de tu procedimiento almacenado. Agrega una instrucción para confirmar la unidad de trabajo actual al final del procedimiento.
 
-Escribe y ejecuta otra consulta para verificar que el procedimiento almacenado actualizado funcione como se espera al usar una puntuación inválida de 101.
+<details><summary> Sugerencia 1</summary>
+    Recuerda que tan pronto como cualquier código dentro de las declaraciones IF/ELSE IF/ELSE se completa, el procesamiento reanuda después del END IF, por lo que puedes agregar tu código de confirmación allí.
+</details>
 
-Resumen
+**Toma una captura de pantalla que muestre la consulta SQL.**
+
+- Ejecuta tu código para reemplazar el procedimiento almacenado.
+
+- Escribe y ejecuta una consulta para verificar que el procedimiento almacenado actualizado funcione como se espera al usar una puntuación válida de 38.
+
+- Escribe y ejecuta otra consulta para verificar que el procedimiento almacenado actualizado funcione como se espera al usar una puntuación inválida de 101.
+
+## Resumen
 Ahora puedes escribir declaraciones SQL avanzadas para consultar datos de múltiples tablas, ocultar datos sensibles de los usuarios y controlar cómo se actualiza la información en tus tablas.
 */
+
+SHOW DATABASES;
+
+USE CHICAGO;
+SHOW TABLES;
+
+
+
+SELECT * FROM census_data LIMIT 3;
+SELECT * FROM chicago_crime_data LIMIT 3;
+SELECT * FROM chicago_public_schools LIMIT 3;
+
+/*PROBLEMAS*/
+
+/*
+Ejercicio 1: Uso de Joins
+
+Escribe y ejecuta una consulta SQL para listar los nombres de las escuelas, los nombres de las comunidades y la asistencia promedio 
+para comunidades con un índice de dificultad de 98.
+*/
+
+SELECT CPS.NAME_OF_SCHOOL, CD.COMMUNITY_AREA_NAME, CPS.AVERAGE_STUDENT_ATTENDANCE
+FROM chicago_public_schools CPS
+LEFT OUTER JOIN census_data CD
+ON CPS.COMMUNITY_AREA_NUMBER = CD.COMMUNITY_AREA_NUMBER
+WHERE HARDSHIP_INDEX = 98
+
+/*
+Pregunta 2
+Escribe y ejecuta una consulta SQL para listar todos los crímenes que ocurrieron en una escuela. 
+Incluye el número de caso, el tipo de crimen y el nombre de la comunidad.
+*/
+SELECT CCD.CASE_NUMBER, CCD.PRIMARY_TYPE, CD.COMMUNITY_AREA_NAME	
+FROM chicago_crime_data CCD
+LEFT OUTER JOIN census_data CD
+ON CCD.COMMUNITY_AREA_NUMBER = CD.COMMUNITY_AREA_NUMBER
+WHERE CCD.LOCATION_DESCRIPTION LIKE '%SCHOOL%'
+
+/*
+Ejercicio 2: Creando una Vista
+Por razones de privacidad, se te ha solicitado crear una vista que permita a los usuarios seleccionar
+solo el nombre de la escuela y los campos de icono de la tabla CHICAGO_PUBLIC_SCHOOLS. Al proporcionar una vista,
+puedes asegurarte de que los usuarios no puedan ver las puntuaciones reales asignadas a una escuela, 
+solo el icono asociado con su puntuación. Debes definir nuevos nombres para las columnas de la vista 
+para oscurecer el uso de puntuaciones e iconos en la tabla original.
+
+Pregunta 1
+Escriba y ejecute una declaración SQL para crear una vista que muestre las columnas enumeradas en la siguiente tabla,
+con los nuevos nombres de columna como se muestra en la segunda columna.
+*/
+
+CREATE VIEW CHICAGO_SCHOOLS
+(School_Name, Safety_Rating, Family_Rating, Environment_Rating, Instruction_Rating, Leaders_Rating,Teachers_Rating) AS
+SELECT NAME_OF_SCHOOL, Safety_Icon, Family_Involvement_Icon, Environment_Icon, Instruction_Icon, Leaders_Icon, Teachers_Icon
+FROM chicago_public_schools
+
+
+SELECT * FROM CHICAGO_SCHOOLS;
+
+-- SELECT * FROM census_data LIMIT 3;
+-- SELECT * FROM chicago_crime_data LIMIT 3;
+SELECT * FROM chicago_public_schools LIMIT 3;
+
+/*
+Ejercicio 3: Creación de un Procedimiento Almacenado
+Los campos de icono se calculan en función del valor en el campo de puntuación correspondiente.
+Debes asegurarte de que cuando se actualice un campo de puntuación, el campo de icono también se actualice. 
+Para hacer esto, escribirás un procedimiento almacenado que recibe el id de la escuela y una puntuación de líderes 
+como parámetros de entrada, calcula la configuración del icono y actualiza los campos de manera apropiada.
+
+Pregunta 1
+Escribe la estructura de una consulta para crear o reemplazar un procedimiento almacenado llamado UPDATE_LEADERS_SCORE
+que tome un parámetro in_School_ID como un entero y un parámetro in_Leader_Score como un entero. 
+No olvides usar la declaración #SET TERMINATOR para usar el @ como terminador de la declaración CREATE.
+*/
+
+DROP PROCEDURE IF EXISTS UPDATE_LEADERS_SCORE;
+CREATE PROCEDURE UPDATE_LEADERS_SCORE(IN in_School_ID INTEGER, IN in_Leader_Score  INTEGER)
+BEGIN 
+    
+    IF in_Leader_Score > 0 AND in_Leader_Score < 20 THEN
+        UPDATE chicago_public_schools
+        SET Leaders_Score = in_Leader_Score, Leaders_Icon = 'Muy debil'
+        WHERE School_ID = in_School_ID;
+
+    ELSEIF in_Leader_Score < 40 THEN
+        UPDATE chicago_public_schools
+        SET Leaders_Score = in_Leader_Score, Leaders_Icon = 'Debil'
+        WHERE School_ID = in_School_ID;
+
+    ELSEIF in_Leader_Score < 60 THEN
+        UPDATE chicago_public_schools
+        SET Leaders_Score = in_Leader_Score, Leaders_Icon = 'Promedio'
+        WHERE School_ID = in_School_ID;
+
+    ELSEIF in_Leader_Score < 80 THEN
+        UPDATE chicago_public_schools
+        SET Leaders_Score = in_Leader_Score, Leaders_Icon = 'Fuerte'
+        WHERE School_ID = in_School_ID;
+
+    ELSEIF in_Leader_Score < 100 THEN
+        UPDATE chicago_public_schools
+        SET Leaders_Score = in_Leader_Score, Leaders_Icon = 'Muy fuerte'
+        WHERE School_ID = in_School_ID;
+    END IF; 
+
+END
+
+CALL UPDATE_LEADERS_SCORE(610038, 10);
+CALL UPDATE_LEADERS_SCORE(610281, 22);
+CALL UPDATE_LEADERS_SCORE(610185, 55);
+CALL UPDATE_LEADERS_SCORE(609993, 71);
+CALL UPDATE_LEADERS_SCORE(610513, 96);
+
+/*
+Ejercicio 4: Uso de Transacciones
+Te das cuenta de que si alguien llama a tu código con una puntuación fuera del rango permitido (0-99), 
+entonces la puntuación se actualizará con los datos inválidos y el ícono permanecerá en su valor anterior. 
+Hay varias formas de evitar este problema, una de las cuales es usar una transacción.
+
+Pregunta 1
+Actualiza la definición de tu procedimiento almacenado. Agrega una cláusula ELSE genérica a la declaración IF 
+que revierta el trabajo actual si la puntuación no encaja en ninguna de las categorías anteriores.
+*/
+
+DROP PROCEDURE IF EXISTS UPDATE_LEADERS_SCORE_TRANSC;
+CREATE PROCEDURE UPDATE_LEADERS_SCORE_TRANSC(IN in_School_ID INTEGER UNSIGNED, IN in_Leader_Score INTEGER UNSIGNED)
+BEGIN 
+    DECLARE EXIT HANDLER FOR SQLEXCEPTION
+    BEGIN
+        ROLLBACK;
+        RESIGNAL;
+    END;
+
+    START TRANSACTION;
+    IF  in_Leader_Score > 0 AND in_Leader_Score < 20 THEN
+        UPDATE chicago_public_schools
+        SET Leaders_Score = in_Leader_Score, Leaders_Icon = 'Muy debil'
+        WHERE School_ID = in_School_ID;
+
+    ELSEIF in_Leader_Score < 40 THEN
+        UPDATE chicago_public_schools
+        SET Leaders_Score = in_Leader_Score, Leaders_Icon = 'Debil'
+        WHERE School_ID = in_School_ID;
+
+    ELSEIF in_Leader_Score < 60 THEN
+        UPDATE chicago_public_schools
+        SET Leaders_Score = in_Leader_Score, Leaders_Icon = 'Promedio'
+        WHERE School_ID = in_School_ID;
+
+    ELSEIF in_Leader_Score < 80 THEN
+        UPDATE chicago_public_schools
+        SET Leaders_Score = in_Leader_Score, Leaders_Icon = 'Fuerte'
+        WHERE School_ID = in_School_ID;
+
+    ELSEIF in_Leader_Score < 100 THEN
+        UPDATE chicago_public_schools
+        SET Leaders_Score = in_Leader_Score, Leaders_Icon = 'Muy fuerte'
+        WHERE School_ID = in_School_ID;
+
+    ELSE 
+        SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = 'El puntaje no está en un rango válido';
+    
+    END IF; 
+
+    COMMIT;
+END
+
+
+CALL UPDATE_LEADERS_SCORE_TRANSC(610038, 101);
+-- CALL UPDATE_LEADERS_SCORE(610281, 22);
+
+SELECT * FROM chicago_public_schools LIMIT 5;

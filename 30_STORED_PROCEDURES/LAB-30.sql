@@ -165,7 +165,6 @@ Ahora eres capaz de:
 
 
 
-*/
 
 SHOW DATABASES;
 
